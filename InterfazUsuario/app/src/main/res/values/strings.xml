@@ -1,3 +1,26 @@
 <resources>
     <string name="app_name">InterfazUsuario</string>
+    <string name="botones">BOTONES</string>
+    <string name="boton_simple">Botón Simple</string>
+    <string name="boton_toggle">Toggle button</string>
+    <string name="boton_encendido">ENCENDIDO</string>
+    <string name="boton_apagado">APAGADO</string>
+    <string name="boton_interruptor">Interruptor</string>
+    <string name="boton_grabar_video">Grabar Video</string>
+    <string name="texto_imagenes">Texto e imágenes</string>
+    <string name="comenzar">comenzar</string>
+    <string name="parar">parar</string>
+    <string name="usuario">usuario</string>
+    <string name="hola_mundo">Hola Mundo</string>
+    <string name="negrita">negrita</string>
+    <string name="settext">set text</string>
+    <string name="comprobar">comprobar</string>
+    <string name="checkradio">Checkboxes y Radio Buttons</string>
+    <string name="action_settings">Settings</string>
+    <string name="marcame">Márcame</string>
+    <string name="id_opcion_seleccionada">ID opción seleccionada: (ninguna)</string>
+    <string name="opcion_1">Opción 1</string>
+    <string name="opcion_2">Opción 2</string>
+
+
 </resources>
