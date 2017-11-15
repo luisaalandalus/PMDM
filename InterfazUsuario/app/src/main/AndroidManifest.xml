@@ -18,7 +18,11 @@
         </activity>
         <activity android:name=".Botones" />
         <activity android:name=".TextoImagenes" />
-        <activity android:name=".CheckRadio"></activity>
+        <activity android:name=".CheckRadio" />
+        <activity android:name=".ListSpinner" />
+        <activity android:name=".ListaListView" />
+        <activity android:name=".SelectGridView" />
+        <activity android:name=".CardRView"></activity>
     </application>
 
 </manifest>

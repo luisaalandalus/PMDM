@@ -21,6 +21,14 @@
     <string name="id_opcion_seleccionada">ID opción seleccionada: (ninguna)</string>
     <string name="opcion_1">Opción 1</string>
     <string name="opcion_2">Opción 2</string>
+    <string name="spinner">listas desplegables (spinner)</string>
+    <string name="selecciona_una_opcion">Selecciona una opción:</string>
+    <string name="listView">list view</string>
+    <string name="gridView">grid view</string>
+    <string name="recycledView">recycled view - card view</string>
+    <string name="insertar">Insertar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="mover">Mover</string>
 
 
 </resources>

@@ -28,4 +28,24 @@ public class MainActivity extends AppCompatActivity {
         this.startActivity(intent);
 
     }
+    public void abrirSpinner(View v){
+        Intent intent = new Intent(this,ListSpinner.class);
+        this.startActivity(intent);
+
+    }
+    public void abrirListaListView(View v){
+        Intent intent = new Intent(this,ListaListView.class);
+        this.startActivity(intent);
+
+    }
+    public void abrirSelectGridView(View v){
+        Intent intent = new Intent(this,SelectGridView.class);
+        this.startActivity(intent);
+
+    }
+    public void abrirCardRView(View v){
+        Intent intent = new Intent(this,CardRView.class);
+        this.startActivity(intent);
+
+    }
 }
