@@ -41,6 +41,7 @@ public class TextoImagenes extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_texto_imagenes);
+
         imageSwitcher = (ImageSwitcher) findViewById(R.id.imageSwitcher);
         imageSwitcher.setFactory(new ViewSwitcher.ViewFactory() {
 
