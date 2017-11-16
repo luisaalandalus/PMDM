@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
-
+    // Controles Básicos 1
     public void abrirBotones(View v){
         Intent intent = new Intent(this,Botones.class);
         this.startActivity(intent);
