@@ -25,7 +25,7 @@ public class  MyRecycledViewAdapter
 
 
 
-
+    //Contenedor de vista para cada elemento de nuestra RecycledView
     public static class PaletteViewHolder extends RecyclerView.ViewHolder{
         private TextView name;
         private TextView hexValue;
@@ -49,7 +49,7 @@ public class  MyRecycledViewAdapter
     }
 
 
-    //instanciamos la vista para añadirla a la jerarquía de vistas y devuelve el adaptador de titular
+    //instanciamos la vista para añadirla a la jerarquía de vistas y devuelve el adaptador de Palette sin personalizar
     @Override
     public PaletteViewHolder onCreateViewHolder(ViewGroup viewGroup, int viewType) {
 
@@ -60,11 +60,11 @@ public class  MyRecycledViewAdapter
 
         view.setOnClickListener(this);
 
-        PaletteViewHolder titularViewHolder = new PaletteViewHolder(view);
-        return titularViewHolder;
+        PaletteViewHolder paleteViewHolder = new PaletteViewHolder(view);
+        return paleteViewHolder;
     }
 
-    // Actualiza los datos del viewHolder
+    // Personaliza los datos del viewHolder
     @Override
     public void onBindViewHolder(PaletteViewHolder holder, int position) {
         holder.name.setText(datos.get(position).getName());
@@ -72,13 +72,14 @@ public class  MyRecycledViewAdapter
         holder.card.setCardBackgroundColor(datos.get(position).getIntValue());
     }
 
-
+    //Numero de elementos de la vista
     @Override
     public int getItemCount() {
         return datos.size();
     }
 
 
+    //Definimos el listener para los elemnetos de nuestra vista
     public void setOnClickListener(View.OnClickListener listener) {
         this.listener = listener;
     }
