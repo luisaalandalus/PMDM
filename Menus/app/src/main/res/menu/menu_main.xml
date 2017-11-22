@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.alandalus.luisaparragarcia.menus.MainActivity">
+    <item android:id="@+id/coupons"
+        android:title="Cupones"
+        android:orderInCategory="101"
+        app:showAsAction="never"/>
+    <item android:id="@+id/stores"
+        android:orderInCategory="101"
+        android:title="Tiendas (Menú contextual flotante)"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/cashback"
+        android:icon="@android:drawable/stat_notify_error"
+        android:orderInCategory="101"
+        android:title="Carrito"
+        app:showAsAction="never" />
+    <item android:id="@+id/deals"
+        android:orderInCategory="101"
+        android:title="Ofertas"
+        android:icon="@android:drawable/stat_notify_error"
+        app:showAsAction="ifRoom"/>
+</menu>
+
