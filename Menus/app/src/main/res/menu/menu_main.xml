@@ -15,7 +15,7 @@
         android:icon="@android:drawable/stat_notify_error"
         android:orderInCategory="101"
         android:title="Carrito"
-        app:showAsAction="never" />
+        app:showAsAction="withText" />
     <item android:id="@+id/deals"
         android:orderInCategory="101"
         android:title="Ofertas"
