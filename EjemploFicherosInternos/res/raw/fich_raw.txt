@@ -1,0 +1,2 @@
+Esto es un fichero de prueba 
+ubicado en la carpeta raw.

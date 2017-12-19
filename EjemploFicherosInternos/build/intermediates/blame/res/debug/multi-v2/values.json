@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/luisaparragarcia/IES ALANDALUS/PMDM/semipresencial/Temas_nuevos/Tema_3_Gestion_Datos/Apuntes/Tema_3_web/EjemploFicherosInternos/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/luisaparragarcia/IES ALANDALUS/PMDM/semipresencial/Temas_nuevos/Tema_3_Gestion_Datos/Apuntes/Tema_3_web/EjemploFicherosInternos/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                },
+                {
+                    "source": "/Users/luisaparragarcia/IES ALANDALUS/PMDM/semipresencial/Temas_nuevos/Tema_3_Gestion_Datos/Apuntes/Tema_3_web/EjemploFicherosInternos/res/values/strings.xml",
+                    "from": {
+                        "startLines": "4,3,6,7,8,5",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "122,58,235,281,323,176",
+                        "endColumns": "52,62,45,41,48,58",
+                        "endOffsets": "170,116,276,318,367,230"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "169,222,285,331,373,422",
+                        "endColumns": "52,62,45,41,48,58",
+                        "endOffsets": "217,280,326,368,417,476"
+                    }
+                },
+                {
+                    "source": "/Users/luisaparragarcia/IES ALANDALUS/PMDM/semipresencial/Temas_nuevos/Tema_3_Gestion_Datos/Apuntes/Tema_3_web/EjemploFicherosInternos/res/values/styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,522",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "481,679"
+                    },
+                    "to": {
+                        "startLines": "10,17",
+                        "startColumns": "4,4",
+                        "startOffsets": "481,772",
+                        "endLines": "16,19",
+                        "endColumns": "12,12",
+                        "endOffsets": "767,927"
+                    }
+                }
+            ]
+        }
+    ]
+}
