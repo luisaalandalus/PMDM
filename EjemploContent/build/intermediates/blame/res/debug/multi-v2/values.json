@@ -1,0 +1,120 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/luisaparragarcia/IES ALANDALUS/PMDM/semipresencial/Temas_nuevos/Tema_3_Gestion_Datos/Apuntes/Tema_3_web/EjemploContent/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/luisaparragarcia/IES ALANDALUS/PMDM/semipresencial/Temas_nuevos/Tema_3_Gestion_Datos/Apuntes/Tema_3_web/EjemploContent/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                },
+                {
+                    "source": "/Users/luisaparragarcia/IES ALANDALUS/PMDM/semipresencial/Temas_nuevos/Tema_3_Gestion_Datos/Apuntes/Tema_3_web/EjemploContent/res/values/strings.xml",
+                    "from": {
+                        "startLines": "4,3,6,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "112,58,229,166",
+                        "endColumns": "52,52,49,62",
+                        "endOffsets": "160,106,274,224"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "169,222,275,325",
+                        "endColumns": "52,52,49,62",
+                        "endOffsets": "217,270,320,383"
+                    }
+                },
+                {
+                    "source": "/Users/luisaparragarcia/IES ALANDALUS/PMDM/semipresencial/Temas_nuevos/Tema_3_Gestion_Datos/Apuntes/Tema_3_web/EjemploContent/res/values/styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,522",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "481,679"
+                    },
+                    "to": {
+                        "startLines": "8,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "388,679",
+                        "endLines": "14,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "674,834"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/EjemploContent/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/EjemploContent/res/values/styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,522",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "481,679"
+                    },
+                    "to": {
+                        "startLines": "8,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "388,679",
+                        "endLines": "14,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "674,834"
+                    }
+                },
+                {
+                    "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/EjemploContent/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                },
+                {
+                    "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/EjemploContent/res/values/strings.xml",
+                    "from": {
+                        "startLines": "4,3,6,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "112,58,229,166",
+                        "endColumns": "52,52,49,62",
+                        "endOffsets": "160,106,274,224"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "169,222,275,325",
+                        "endColumns": "52,52,49,62",
+                        "endOffsets": "217,270,320,383"
+                    }
+                }
+            ]
+        }
+    ]
+}

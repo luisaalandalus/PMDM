@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ejemplo Content</string>
+    <string name="action_settings">Settings</string>
+    <string name="resultado">Resultado de la búsqueda</string>
+    <string name="boton">Recuperar datos</string>
+
+</resources>
