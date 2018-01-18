@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <!-- Categoría de preferencias => Categoría 1 -->
+    <PreferenceCategory android:title="Categoría 1" >
+        <!-- Define una casilla de verificación como preferencia -->
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="checkboxPref"
+            android:title="Checkbox" />
+    </PreferenceCategory>
+
+    <!-- Categoría de preferencias => Categoría 2 -->
+    <PreferenceCategory android:title="Categoría 2" >
+        <!-- Preferencia de un cuadro de Texto -->
+        <EditTextPreference
+            android:hint="[Introduce una cadena aquí]"
+            android:key="editTextPref"
+            android:summary=" Introduce una cadena"
+            android:title="Edit Text" />
+
+        <!-- Preferencia de tono de llamada -->
+        <RingtonePreference
+            android:key="ringtonePref"
+            android:summary="selecciona un ringtone"
+            android:title="Ringtones" />
+
+        <!-- Pantalla de preferencias -->
+        <PreferenceScreen
+            android:key="secondPrefScreenPref"
+            android:summary="Pulsa aquí para la segunda pantalla de preferencias"
+            android:title="Segunda pantalla preferencias" >
+
+            <!-- Preferencia de un cuadro de Texto -->
+            <EditTextPreference
+                android:key="secondEditTextPref"
+                android:summary="Introduce una cadena"
+                android:title="Edit Text (Segunda Pantalla)" />
+        </PreferenceScreen>
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

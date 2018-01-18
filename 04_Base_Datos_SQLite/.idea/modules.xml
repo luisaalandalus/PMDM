@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/04_Base_Datos_SQLite.iml" filepath="$PROJECT_DIR$/04_Base_Datos_SQLite.iml" />
+      <module fileurl="file:///media/datos/ramon/IES Al-Andalus/ASIGNATURAS/PMDM/semipresencial/DAM_PMDM06/Ejemplos_Android_Studio/04_Base_Datos_SQLite/04_Base_Datos_SQLite.iml" filepath="/media/datos/ramon/IES Al-Andalus/ASIGNATURAS/PMDM/semipresencial/DAM_PMDM06/Ejemplos_Android_Studio/04_Base_Datos_SQLite/04_Base_Datos_SQLite.iml" />
+      <module fileurl="file:///media/datos/ramon/IES Al-Andalus/ASIGNATURAS/PMDM/semipresencial/DAM_PMDM06/Ejemplos_Android_Studio/04_Base_Datos_SQLite/app/app.iml" filepath="/media/datos/ramon/IES Al-Andalus/ASIGNATURAS/PMDM/semipresencial/DAM_PMDM06/Ejemplos_Android_Studio/04_Base_Datos_SQLite/app/app.iml" />
+    </modules>
+  </component>
+</project>
