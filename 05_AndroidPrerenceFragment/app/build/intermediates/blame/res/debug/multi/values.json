@@ -1,0 +1,159 @@
+[
+    {
+        "outputFile": "/media/datos/ramon/IES Al-Andalus/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_3_Gestion_Datos/Ejemplos_Android_Studio/01_Preferencias/06_AndroidPrerenceFragment/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 44,
+                    "endOffset": 95
+                },
+                "from": {
+                    "file": "/media/datos/ramon/IES Al-Andalus/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_3_Gestion_Datos/Ejemplos_Android_Studio/01_Preferencias/06_AndroidPrerenceFragment/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 106,
+                        "endColumn": 44,
+                        "endOffset": 146
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 44,
+                    "endOffset": 140
+                },
+                "from": {
+                    "file": "/media/datos/ramon/IES Al-Andalus/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_3_Gestion_Datos/Ejemplos_Android_Studio/01_Preferencias/06_AndroidPrerenceFragment/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 61,
+                        "endColumn": 44,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 145,
+                    "endColumn": 43,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "/media/datos/ramon/IES Al-Andalus/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_3_Gestion_Datos/Ejemplos_Android_Studio/01_Preferencias/06_AndroidPrerenceFragment/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 43,
+                        "endOffset": 56
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 62,
+                    "endOffset": 247
+                },
+                "from": {
+                    "file": "/media/datos/ramon/IES Al-Andalus/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_3_Gestion_Datos/Ejemplos_Android_Studio/01_Preferencias/06_AndroidPrerenceFragment/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 62,
+                        "endOffset": 75
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 252,
+                    "endColumn": 52,
+                    "endOffset": 300
+                },
+                "from": {
+                    "file": "/media/datos/ramon/IES Al-Andalus/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_3_Gestion_Datos/Ejemplos_Android_Studio/01_Preferencias/06_AndroidPrerenceFragment/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 80,
+                        "endColumn": 52,
+                        "endOffset": 128
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 305,
+                    "endColumn": 50,
+                    "endOffset": 351
+                },
+                "from": {
+                    "file": "/media/datos/ramon/IES Al-Andalus/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_3_Gestion_Datos/Ejemplos_Android_Studio/01_Preferencias/06_AndroidPrerenceFragment/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 133,
+                        "endColumn": 50,
+                        "endOffset": 179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 356,
+                    "endColumn": 60,
+                    "endOffset": 412
+                },
+                "from": {
+                    "file": "/media/datos/ramon/IES Al-Andalus/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_3_Gestion_Datos/Ejemplos_Android_Studio/01_Preferencias/06_AndroidPrerenceFragment/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 184,
+                        "endColumn": 60,
+                        "endOffset": 240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 417,
+                    "endColumn": 57,
+                    "endOffset": 470
+                },
+                "from": {
+                    "file": "/media/datos/ramon/IES Al-Andalus/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_3_Gestion_Datos/Ejemplos_Android_Studio/01_Preferencias/06_AndroidPrerenceFragment/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 58,
+                        "endOffset": 71
+                    }
+                }
+            }
+        ]
+    }
+]

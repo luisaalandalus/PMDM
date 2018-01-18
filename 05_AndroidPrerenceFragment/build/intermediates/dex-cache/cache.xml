@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/ramon/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/media/datos/ramon/IES Al-Andalus/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_3_Gestion_Datos/Ejemplos_Android_Studio/01_Preferencias/06_AndroidPrerenceFragment/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0_b44cd55c864216ba6f44b7d4a7ea7d35f07a072a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/datos/ramon/IES Al-Andalus/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_3_Gestion_Datos/Ejemplos_Android_Studio/01_Preferencias/06_AndroidPrerenceFragment/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="213446057a625818a433c642f4349af57bfc00d7">
+        <dex dex="/media/datos/ramon/IES Al-Andalus/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_3_Gestion_Datos/Ejemplos_Android_Studio/01_Preferencias/06_AndroidPrerenceFragment/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_eb22598813ff9af24600be312612bb1653f92a23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/datos/ramon/IES Al-Andalus/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_3_Gestion_Datos/Ejemplos_Android_Studio/01_Preferencias/06_AndroidPrerenceFragment/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4a6f8e68b4130a4f1874f009248dee00e9ce692d">
+        <dex dex="/media/datos/ramon/IES Al-Andalus/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_3_Gestion_Datos/Ejemplos_Android_Studio/01_Preferencias/06_AndroidPrerenceFragment/app/build/intermediates/pre-dexed/debug/instant-run_e05fcf5101d2d3c76f225f970553ad2b6f30f605.jar" />
+    </item>
+
+</items>
