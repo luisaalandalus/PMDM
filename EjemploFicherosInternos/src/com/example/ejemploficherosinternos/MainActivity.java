@@ -1,6 +1,8 @@
 package com.example.ejemploficherosinternos;
 
 import java.io.BufferedReader;
+import java.io.FileOutputStream;
+import java.io.FileWriter;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
@@ -52,10 +54,11 @@ public class MainActivity extends Activity {
 		{
 			EditText cuadroTxt = (EditText)findViewById(R.id.editText1);
 			String cadena = cuadroTxt.getText().toString();
-			
+
+			//Abre en modo privado y no sobreescribe
 			OutputStreamWriter fout= new OutputStreamWriter(
-							openFileOutput("fichero.txt", Context.MODE_PRIVATE));
- 
+							openFileOutput("fichero.txt", Context.MODE_PRIVATE | Context.MODE_APPEND));
+
 			fout.write(cadena);
 			fout.close();
 		}
