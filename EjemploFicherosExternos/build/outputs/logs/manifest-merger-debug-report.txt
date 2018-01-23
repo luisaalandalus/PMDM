@@ -1,55 +1,55 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/luisaparragarcia/IES ALANDALUS/PMDM/semipresencial/Temas_nuevos/Tema_3_Gestion_Datos/Apuntes/Tema_3_web/EjemploFicherosExternos/AndroidManifest.xml:2:1-30:12
-INJECTED from /Users/luisaparragarcia/IES ALANDALUS/PMDM/semipresencial/Temas_nuevos/Tema_3_Gestion_Datos/Apuntes/Tema_3_web/EjemploFicherosExternos/AndroidManifest.xml:2:1-30:12
-INJECTED from /Users/luisaparragarcia/IES ALANDALUS/PMDM/semipresencial/Temas_nuevos/Tema_3_Gestion_Datos/Apuntes/Tema_3_web/EjemploFicherosExternos/AndroidManifest.xml:2:1-30:12
-INJECTED from /Users/luisaparragarcia/IES ALANDALUS/PMDM/semipresencial/Temas_nuevos/Tema_3_Gestion_Datos/Apuntes/Tema_3_web/EjemploFicherosExternos/AndroidManifest.xml:2:1-30:12
-INJECTED from /Users/luisaparragarcia/IES ALANDALUS/PMDM/semipresencial/Temas_nuevos/Tema_3_Gestion_Datos/Apuntes/Tema_3_web/EjemploFicherosExternos/AndroidManifest.xml:2:1-30:12
+ADDED from /Users/luisaparragarcia/AndroidStudioProjects/PMDM/EjemploFicherosExternos/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/luisaparragarcia/AndroidStudioProjects/PMDM/EjemploFicherosExternos/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/luisaparragarcia/AndroidStudioProjects/PMDM/EjemploFicherosExternos/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/luisaparragarcia/AndroidStudioProjects/PMDM/EjemploFicherosExternos/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/luisaparragarcia/AndroidStudioProjects/PMDM/EjemploFicherosExternos/AndroidManifest.xml:2:1-30:12
 	package
-		ADDED from /Users/luisaparragarcia/IES ALANDALUS/PMDM/semipresencial/Temas_nuevos/Tema_3_Gestion_Datos/Apuntes/Tema_3_web/EjemploFicherosExternos/AndroidManifest.xml:3:5-50
+		ADDED from /Users/luisaparragarcia/AndroidStudioProjects/PMDM/EjemploFicherosExternos/AndroidManifest.xml:3:5-50
 	android:versionName
-		ADDED from /Users/luisaparragarcia/IES ALANDALUS/PMDM/semipresencial/Temas_nuevos/Tema_3_Gestion_Datos/Apuntes/Tema_3_web/EjemploFicherosExternos/AndroidManifest.xml:5:5-30
-		INJECTED from /Users/luisaparragarcia/IES ALANDALUS/PMDM/semipresencial/Temas_nuevos/Tema_3_Gestion_Datos/Apuntes/Tema_3_web/EjemploFicherosExternos/AndroidManifest.xml
-		INJECTED from /Users/luisaparragarcia/IES ALANDALUS/PMDM/semipresencial/Temas_nuevos/Tema_3_Gestion_Datos/Apuntes/Tema_3_web/EjemploFicherosExternos/AndroidManifest.xml
+		ADDED from /Users/luisaparragarcia/AndroidStudioProjects/PMDM/EjemploFicherosExternos/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/luisaparragarcia/AndroidStudioProjects/PMDM/EjemploFicherosExternos/AndroidManifest.xml
+		INJECTED from /Users/luisaparragarcia/AndroidStudioProjects/PMDM/EjemploFicherosExternos/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/luisaparragarcia/IES ALANDALUS/PMDM/semipresencial/Temas_nuevos/Tema_3_Gestion_Datos/Apuntes/Tema_3_web/EjemploFicherosExternos/AndroidManifest.xml:2:11-69
+		ADDED from /Users/luisaparragarcia/AndroidStudioProjects/PMDM/EjemploFicherosExternos/AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from /Users/luisaparragarcia/IES ALANDALUS/PMDM/semipresencial/Temas_nuevos/Tema_3_Gestion_Datos/Apuntes/Tema_3_web/EjemploFicherosExternos/AndroidManifest.xml:4:5-28
-		INJECTED from /Users/luisaparragarcia/IES ALANDALUS/PMDM/semipresencial/Temas_nuevos/Tema_3_Gestion_Datos/Apuntes/Tema_3_web/EjemploFicherosExternos/AndroidManifest.xml
-		INJECTED from /Users/luisaparragarcia/IES ALANDALUS/PMDM/semipresencial/Temas_nuevos/Tema_3_Gestion_Datos/Apuntes/Tema_3_web/EjemploFicherosExternos/AndroidManifest.xml
+		ADDED from /Users/luisaparragarcia/AndroidStudioProjects/PMDM/EjemploFicherosExternos/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/luisaparragarcia/AndroidStudioProjects/PMDM/EjemploFicherosExternos/AndroidManifest.xml
+		INJECTED from /Users/luisaparragarcia/AndroidStudioProjects/PMDM/EjemploFicherosExternos/AndroidManifest.xml
 uses-sdk
-ADDED from /Users/luisaparragarcia/IES ALANDALUS/PMDM/semipresencial/Temas_nuevos/Tema_3_Gestion_Datos/Apuntes/Tema_3_web/EjemploFicherosExternos/AndroidManifest.xml:7:5-9:41
+ADDED from /Users/luisaparragarcia/AndroidStudioProjects/PMDM/EjemploFicherosExternos/AndroidManifest.xml:7:5-9:41
 	android:targetSdkVersion
-		ADDED from /Users/luisaparragarcia/IES ALANDALUS/PMDM/semipresencial/Temas_nuevos/Tema_3_Gestion_Datos/Apuntes/Tema_3_web/EjemploFicherosExternos/AndroidManifest.xml:9:9-38
+		ADDED from /Users/luisaparragarcia/AndroidStudioProjects/PMDM/EjemploFicherosExternos/AndroidManifest.xml:9:9-38
 	android:minSdkVersion
-		ADDED from /Users/luisaparragarcia/IES ALANDALUS/PMDM/semipresencial/Temas_nuevos/Tema_3_Gestion_Datos/Apuntes/Tema_3_web/EjemploFicherosExternos/AndroidManifest.xml:8:9-34
+		ADDED from /Users/luisaparragarcia/AndroidStudioProjects/PMDM/EjemploFicherosExternos/AndroidManifest.xml:8:9-34
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /Users/luisaparragarcia/IES ALANDALUS/PMDM/semipresencial/Temas_nuevos/Tema_3_Gestion_Datos/Apuntes/Tema_3_web/EjemploFicherosExternos/AndroidManifest.xml:11:5-12:23
+ADDED from /Users/luisaparragarcia/AndroidStudioProjects/PMDM/EjemploFicherosExternos/AndroidManifest.xml:11:5-12:23
 	android:name
-		ADDED from /Users/luisaparragarcia/IES ALANDALUS/PMDM/semipresencial/Temas_nuevos/Tema_3_Gestion_Datos/Apuntes/Tema_3_web/EjemploFicherosExternos/AndroidManifest.xml:11:22-78
+		ADDED from /Users/luisaparragarcia/AndroidStudioProjects/PMDM/EjemploFicherosExternos/AndroidManifest.xml:11:22-78
 application
-ADDED from /Users/luisaparragarcia/IES ALANDALUS/PMDM/semipresencial/Temas_nuevos/Tema_3_Gestion_Datos/Apuntes/Tema_3_web/EjemploFicherosExternos/AndroidManifest.xml:14:5-28:19
+ADDED from /Users/luisaparragarcia/AndroidStudioProjects/PMDM/EjemploFicherosExternos/AndroidManifest.xml:14:5-28:19
 	android:label
-		ADDED from /Users/luisaparragarcia/IES ALANDALUS/PMDM/semipresencial/Temas_nuevos/Tema_3_Gestion_Datos/Apuntes/Tema_3_web/EjemploFicherosExternos/AndroidManifest.xml:17:9-41
+		ADDED from /Users/luisaparragarcia/AndroidStudioProjects/PMDM/EjemploFicherosExternos/AndroidManifest.xml:17:9-41
 	android:icon
-		ADDED from /Users/luisaparragarcia/IES ALANDALUS/PMDM/semipresencial/Temas_nuevos/Tema_3_Gestion_Datos/Apuntes/Tema_3_web/EjemploFicherosExternos/AndroidManifest.xml:16:9-45
+		ADDED from /Users/luisaparragarcia/AndroidStudioProjects/PMDM/EjemploFicherosExternos/AndroidManifest.xml:16:9-45
 	android:allowBackup
-		ADDED from /Users/luisaparragarcia/IES ALANDALUS/PMDM/semipresencial/Temas_nuevos/Tema_3_Gestion_Datos/Apuntes/Tema_3_web/EjemploFicherosExternos/AndroidManifest.xml:15:9-35
+		ADDED from /Users/luisaparragarcia/AndroidStudioProjects/PMDM/EjemploFicherosExternos/AndroidManifest.xml:15:9-35
 	android:theme
-		ADDED from /Users/luisaparragarcia/IES ALANDALUS/PMDM/semipresencial/Temas_nuevos/Tema_3_Gestion_Datos/Apuntes/Tema_3_web/EjemploFicherosExternos/AndroidManifest.xml:18:9-40
+		ADDED from /Users/luisaparragarcia/AndroidStudioProjects/PMDM/EjemploFicherosExternos/AndroidManifest.xml:18:9-40
 activity#com.example.ejemploficherosexternos.MainActivity
-ADDED from /Users/luisaparragarcia/IES ALANDALUS/PMDM/semipresencial/Temas_nuevos/Tema_3_Gestion_Datos/Apuntes/Tema_3_web/EjemploFicherosExternos/AndroidManifest.xml:19:9-27:20
+ADDED from /Users/luisaparragarcia/AndroidStudioProjects/PMDM/EjemploFicherosExternos/AndroidManifest.xml:19:9-27:20
 	android:label
-		ADDED from /Users/luisaparragarcia/IES ALANDALUS/PMDM/semipresencial/Temas_nuevos/Tema_3_Gestion_Datos/Apuntes/Tema_3_web/EjemploFicherosExternos/AndroidManifest.xml:21:13-45
+		ADDED from /Users/luisaparragarcia/AndroidStudioProjects/PMDM/EjemploFicherosExternos/AndroidManifest.xml:21:13-45
 	android:name
-		ADDED from /Users/luisaparragarcia/IES ALANDALUS/PMDM/semipresencial/Temas_nuevos/Tema_3_Gestion_Datos/Apuntes/Tema_3_web/EjemploFicherosExternos/AndroidManifest.xml:20:13-76
+		ADDED from /Users/luisaparragarcia/AndroidStudioProjects/PMDM/EjemploFicherosExternos/AndroidManifest.xml:20:13-76
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/luisaparragarcia/IES ALANDALUS/PMDM/semipresencial/Temas_nuevos/Tema_3_Gestion_Datos/Apuntes/Tema_3_web/EjemploFicherosExternos/AndroidManifest.xml:22:13-26:29
+ADDED from /Users/luisaparragarcia/AndroidStudioProjects/PMDM/EjemploFicherosExternos/AndroidManifest.xml:22:13-26:29
 action#android.intent.action.MAIN
-ADDED from /Users/luisaparragarcia/IES ALANDALUS/PMDM/semipresencial/Temas_nuevos/Tema_3_Gestion_Datos/Apuntes/Tema_3_web/EjemploFicherosExternos/AndroidManifest.xml:23:17-69
+ADDED from /Users/luisaparragarcia/AndroidStudioProjects/PMDM/EjemploFicherosExternos/AndroidManifest.xml:23:17-69
 	android:name
-		ADDED from /Users/luisaparragarcia/IES ALANDALUS/PMDM/semipresencial/Temas_nuevos/Tema_3_Gestion_Datos/Apuntes/Tema_3_web/EjemploFicherosExternos/AndroidManifest.xml:23:25-66
+		ADDED from /Users/luisaparragarcia/AndroidStudioProjects/PMDM/EjemploFicherosExternos/AndroidManifest.xml:23:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/luisaparragarcia/IES ALANDALUS/PMDM/semipresencial/Temas_nuevos/Tema_3_Gestion_Datos/Apuntes/Tema_3_web/EjemploFicherosExternos/AndroidManifest.xml:25:17-77
+ADDED from /Users/luisaparragarcia/AndroidStudioProjects/PMDM/EjemploFicherosExternos/AndroidManifest.xml:25:17-77
 	android:name
-		ADDED from /Users/luisaparragarcia/IES ALANDALUS/PMDM/semipresencial/Temas_nuevos/Tema_3_Gestion_Datos/Apuntes/Tema_3_web/EjemploFicherosExternos/AndroidManifest.xml:25:27-74
+		ADDED from /Users/luisaparragarcia/AndroidStudioProjects/PMDM/EjemploFicherosExternos/AndroidManifest.xml:25:27-74

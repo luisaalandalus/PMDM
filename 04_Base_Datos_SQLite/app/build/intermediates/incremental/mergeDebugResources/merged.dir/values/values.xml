@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tipos">
+        <item>Amigos</item>
+        <item>Trabajo</item>
+        <item>Familia</item>
+    </string-array>
+    <string name="Bienvenida">Aplicación Gestión Contactos Agenda</string>
+    <string name="BotonAddCont">Añadir contacto a BD</string>
+    <string name="BotonAddContacto">Añadir contacto</string>
+    <string name="BotonBorrarBD">Borrar Base Datos</string>
+    <string name="BotonConsulta">Obtener Informacion Contacto</string>
+    <string name="BotonCosulta">Consultar contactos</string>
+    <string name="BotonLlamarTlf">Llamar Tlf</string>
+    <string name="app_name">Ud5_SQLite</string>
+    <string name="contactoTxt">Nombre:</string>
+    <string name="numeroTxt">Número:</string>
+    <string name="telefonoTxt">Teléfono</string>
+    <string name="tipoTxt">Tipo</string>
+</resources>
