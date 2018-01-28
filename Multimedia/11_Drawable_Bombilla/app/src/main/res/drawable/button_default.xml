@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- define un rectángulo de forma vectorial para el botón del ToggleButton
+     cuando el botón está desactivado -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle" >
+
+    <!-- definir el ancho y color de la línea del rectángulo -->
+    <stroke
+        android:width="2dp"
+        android:color="#FFFFFFFF" />
+
+    <!-- definir el degradado
+         ángulo 90º
+         comienza con el color #DD777777  gris oscuro
+         acaba con el color #DDBBBBBB gris claro -->
+    <gradient
+        android:angle="90"
+        android:endColor="#DDBBBBBB"
+        android:startColor="#DD777777" />
+
+    <!-- establecer las 4 esquinas del rectángulo para que sean redondeadas -->
+    <corners android:radius="7dp" />
+
+</shape>

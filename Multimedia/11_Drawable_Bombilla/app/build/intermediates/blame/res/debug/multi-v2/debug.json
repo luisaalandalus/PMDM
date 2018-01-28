@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/11_Drawable_Bombilla/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/11_Drawable_Bombilla/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "3,2,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "123,55,173",
+                        "endColumns": "49,67,53",
+                        "endOffsets": "168,118,222"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,105,173",
+                        "endColumns": "49,67,53",
+                        "endOffsets": "100,168,222"
+                    }
+                }
+            ]
+        }
+    ]
+}

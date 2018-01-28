@@ -1,0 +1,88 @@
+[
+    {
+        "outputFile": "/media/datos/ramon/IES Al-Andalus/ASIGNATURAS/PMDM/semipresencial/DAM_PMDM07/Ejemplos_codigo_fuente/AndroidAnimButtons1/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "/media/datos/ramon/IES Al-Andalus/ASIGNATURAS/PMDM/semipresencial/DAM_PMDM07/Ejemplos_codigo_fuente/AndroidAnimButtons1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 131,
+                        "endColumn": 55,
+                        "endOffset": 182
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 111,
+                    "endColumn": 74,
+                    "endOffset": 181
+                },
+                "from": {
+                    "file": "/media/datos/ramon/IES Al-Andalus/ASIGNATURAS/PMDM/semipresencial/DAM_PMDM07/Ejemplos_codigo_fuente/AndroidAnimButtons1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 74,
+                        "endOffset": 126
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/media/datos/ramon/IES Al-Andalus/ASIGNATURAS/PMDM/semipresencial/DAM_PMDM07/Ejemplos_codigo_fuente/16_AndroidAnimButtons/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "/media/datos/ramon/IES Al-Andalus/ASIGNATURAS/PMDM/semipresencial/DAM_PMDM07/Ejemplos_codigo_fuente/16_AndroidAnimButtons/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 131,
+                        "endColumn": 55,
+                        "endOffset": 182
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 111,
+                    "endColumn": 74,
+                    "endOffset": 181
+                },
+                "from": {
+                    "file": "/media/datos/ramon/IES Al-Andalus/ASIGNATURAS/PMDM/semipresencial/DAM_PMDM07/Ejemplos_codigo_fuente/16_AndroidAnimButtons/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 74,
+                        "endOffset": 126
+                    }
+                }
+            }
+        ]
+    }
+]

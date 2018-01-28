@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AnimacionFrame</string>
+    <string name="action_settings">Settings</string>
+    <string name="mensaje">Prueba de animación</string>
+    <string name="inicio_anim">Iniciar animación</string>
+    <string name="desc">Botón para iniciar la animación</string>
+
+</resources>

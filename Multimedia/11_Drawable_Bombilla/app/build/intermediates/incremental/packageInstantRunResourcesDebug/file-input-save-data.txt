@@ -1,0 +1,33 @@
+#Internal package file, do not edit.
+#Fri Jan 06 18:54:11 CET 2017
+2.base=/home/ramon/Documentos/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_4_Multimedia/Ejemplos_codigo_fuente/11_Drawable_Bombilla/app/build/intermediates/res/resources-debug.ap_
+5.file=/home/ramon/Documentos/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_4_Multimedia/Ejemplos_codigo_fuente/11_Drawable_Bombilla/app/build/intermediates/res/resources-debug.ap_/res/drawable/button_default.xml
+5.set=ANDROID_RESOURCE
+3.base=/home/ramon/Documentos/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_4_Multimedia/Ejemplos_codigo_fuente/11_Drawable_Bombilla/app/build/intermediates/res/resources-debug.ap_
+6.file=/home/ramon/Documentos/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_4_Multimedia/Ejemplos_codigo_fuente/11_Drawable_Bombilla/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+2.set=ANDROID_RESOURCE
+4.base=/home/ramon/Documentos/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_4_Multimedia/Ejemplos_codigo_fuente/11_Drawable_Bombilla/app/build/intermediates/res/resources-debug.ap_
+7.file=/home/ramon/Documentos/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_4_Multimedia/Ejemplos_codigo_fuente/11_Drawable_Bombilla/app/build/intermediates/res/resources-debug.ap_/res/drawable/light_bulb.xml
+7.set=ANDROID_RESOURCE
+count=10
+0.file=/home/ramon/Documentos/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_4_Multimedia/Ejemplos_codigo_fuente/11_Drawable_Bombilla/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/light_bulb_off.png
+5.base=/home/ramon/Documentos/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_4_Multimedia/Ejemplos_codigo_fuente/11_Drawable_Bombilla/app/build/intermediates/res/resources-debug.ap_
+8.file=/home/ramon/Documentos/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_4_Multimedia/Ejemplos_codigo_fuente/11_Drawable_Bombilla/app/build/intermediates/res/resources-debug.ap_/res/drawable/button_pressed.xml
+4.set=ANDROID_RESOURCE
+6.base=/home/ramon/Documentos/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_4_Multimedia/Ejemplos_codigo_fuente/11_Drawable_Bombilla/app/build/intermediates/res/resources-debug.ap_
+1.file=/home/ramon/Documentos/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_4_Multimedia/Ejemplos_codigo_fuente/11_Drawable_Bombilla/app/build/intermediates/res/resources-debug.ap_/res/drawable/button_checked.xml
+9.set=ANDROID_RESOURCE
+9.file=/home/ramon/Documentos/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_4_Multimedia/Ejemplos_codigo_fuente/11_Drawable_Bombilla/app/build/intermediates/res/resources-debug.ap_/res/drawable/button.xml
+1.set=ANDROID_RESOURCE
+7.base=/home/ramon/Documentos/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_4_Multimedia/Ejemplos_codigo_fuente/11_Drawable_Bombilla/app/build/intermediates/res/resources-debug.ap_
+2.file=/home/ramon/Documentos/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_4_Multimedia/Ejemplos_codigo_fuente/11_Drawable_Bombilla/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/light_bulb_on.png
+6.set=ANDROID_RESOURCE
+0.base=/home/ramon/Documentos/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_4_Multimedia/Ejemplos_codigo_fuente/11_Drawable_Bombilla/app/build/intermediates/res/resources-debug.ap_
+8.base=/home/ramon/Documentos/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_4_Multimedia/Ejemplos_codigo_fuente/11_Drawable_Bombilla/app/build/intermediates/res/resources-debug.ap_
+3.file=/home/ramon/Documentos/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_4_Multimedia/Ejemplos_codigo_fuente/11_Drawable_Bombilla/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+3.set=ANDROID_RESOURCE
+1.base=/home/ramon/Documentos/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_4_Multimedia/Ejemplos_codigo_fuente/11_Drawable_Bombilla/app/build/intermediates/res/resources-debug.ap_
+9.base=/home/ramon/Documentos/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_4_Multimedia/Ejemplos_codigo_fuente/11_Drawable_Bombilla/app/build/intermediates/res/resources-debug.ap_
+4.file=/home/ramon/Documentos/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_4_Multimedia/Ejemplos_codigo_fuente/11_Drawable_Bombilla/app/build/intermediates/res/resources-debug.ap_/res/layout/main.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE
