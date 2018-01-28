@@ -1,4 +1,0 @@
-#Thu Jan 18 09:49:46 CET 2018
-base.0=/media/diurno/TOSHIBA EXT/COPIA PORTATIL/AndroidStudioProjects/PMDM/02_PreferenceActivity2/app/build/intermediates/transforms/dexMerger/debug/3
-path.0=classes.dex
-renamed.0=classes.dex

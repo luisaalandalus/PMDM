@@ -1,4 +1,0 @@
-#Thu Jan 18 12:17:20 CET 2018
-base.0=/Users/luisaparragarcia/AndroidStudioProjects/PMDM/04_Base_Datos_SQLite/app/build/intermediates/transforms/dexMerger/debug/0
-path.0=classes.dex
-renamed.0=classes.dex
