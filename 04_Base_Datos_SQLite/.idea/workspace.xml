@@ -61,12 +61,10 @@
       <file leaf-file-name="AdaptadorBD.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pmdm/ud5sqlite/AdaptadorBD.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-714">
-              <caret line="165" column="19" lean-forward="false" selection-start-line="165" selection-start-column="19" selection-end-line="165" selection-end-column="19" />
+            <state relative-caret-position="150">
+              <caret line="174" column="9" lean-forward="true" selection-start-line="174" selection-start-column="9" selection-end-line="174" selection-end-column="9" />
               <folding>
                 <element signature="e#7616#7627#0" expanded="true" />
-                <element signature="e#9073#9074#0" expanded="true" />
-                <element signature="e#9150#9151#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -91,9 +89,11 @@
       <file leaf-file-name="Consulta.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pmdm/ud5sqlite/Consulta.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="67" column="0" lean-forward="true" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="840">
+              <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -101,9 +101,26 @@
       <file leaf-file-name="Contactos.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pmdm/ud5sqlite/Contactos.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-437">
+            <state relative-caret-position="30">
               <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding />
+              <folding>
+                <element signature="e#624#625#0" expanded="false" />
+                <element signature="e#656#657#0" expanded="false" />
+                <element signature="e#699#700#0" expanded="false" />
+                <element signature="e#731#732#0" expanded="false" />
+                <element signature="e#780#781#0" expanded="false" />
+                <element signature="e#816#817#0" expanded="false" />
+                <element signature="e#857#858#0" expanded="false" />
+                <element signature="e#885#886#0" expanded="false" />
+                <element signature="e#918#919#0" expanded="false" />
+                <element signature="e#947#948#0" expanded="false" />
+                <element signature="e#978#979#0" expanded="false" />
+                <element signature="e#1007#1008#0" expanded="false" />
+                <element signature="e#1042#1043#0" expanded="false" />
+                <element signature="e#1073#1074#0" expanded="false" />
+                <element signature="e#1104#1105#0" expanded="false" />
+                <element signature="e#1131#1132#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -111,9 +128,11 @@
       <file leaf-file-name="AddContactos.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pmdm/ud5sqlite/AddContactos.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
+            <state relative-caret-position="735">
               <caret line="57" column="33" lean-forward="false" selection-start-line="57" selection-start-column="33" selection-end-line="57" selection-end-column="33" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -2048,7 +2067,6 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="92" />
     <option name="y" value="105" />
     <option name="width" value="1680" />
     <option name="height" value="577" />
@@ -2212,7 +2230,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1516873194572" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1516914673447" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -2312,7 +2330,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1516873194572" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1516914673448" />
       </method>
     </configuration>
     <list size="1">
@@ -2394,12 +2412,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="92" y="105" width="1680" height="577" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="105" width="1680" height="577" extended-state="0" />
     <layout>
-      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25813448" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25813448" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -2416,9 +2433,9 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1914378" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1984127" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -2474,9 +2491,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pmdm/ud5sqlite/Consulta.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="840">
+          <caret line="67" column="0" lean-forward="true" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2484,15 +2503,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="e#624#625#0" expanded="false" />
+            <element signature="e#656#657#0" expanded="false" />
+            <element signature="e#699#700#0" expanded="false" />
+            <element signature="e#731#732#0" expanded="false" />
+            <element signature="e#780#781#0" expanded="false" />
+            <element signature="e#816#817#0" expanded="false" />
+            <element signature="e#857#858#0" expanded="false" />
+            <element signature="e#885#886#0" expanded="false" />
+            <element signature="e#918#919#0" expanded="false" />
+            <element signature="e#947#948#0" expanded="false" />
+            <element signature="e#978#979#0" expanded="false" />
+            <element signature="e#1007#1008#0" expanded="false" />
+            <element signature="e#1042#1043#0" expanded="false" />
+            <element signature="e#1073#1074#0" expanded="false" />
+            <element signature="e#1104#1105#0" expanded="false" />
+            <element signature="e#1131#1132#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pmdm/ud5sqlite/AddContactos.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="47" column="29" lean-forward="false" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="29" />
-          <folding />
+        <state relative-caret-position="735">
+          <caret line="57" column="33" lean-forward="false" selection-start-line="57" selection-start-column="33" selection-end-line="57" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2514,12 +2552,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pmdm/ud5sqlite/AdaptadorBD.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="29" column="53" lean-forward="true" selection-start-line="29" selection-start-column="53" selection-end-line="29" selection-end-column="53" />
+        <state relative-caret-position="2475">
+          <caret line="165" column="19" lean-forward="false" selection-start-line="165" selection-start-column="19" selection-end-line="165" selection-end-column="19" />
           <folding>
             <element signature="e#7616#7627#0" expanded="true" />
-            <element signature="e#9073#9074#0" expanded="true" />
-            <element signature="e#9150#9151#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2550,7 +2586,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2558,7 +2596,117 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#624#625#0" expanded="false" />
+            <element signature="e#656#657#0" expanded="false" />
+            <element signature="e#699#700#0" expanded="false" />
+            <element signature="e#731#732#0" expanded="false" />
+            <element signature="e#780#781#0" expanded="false" />
+            <element signature="e#816#817#0" expanded="false" />
+            <element signature="e#857#858#0" expanded="false" />
+            <element signature="e#885#886#0" expanded="false" />
+            <element signature="e#918#919#0" expanded="false" />
+            <element signature="e#947#948#0" expanded="false" />
+            <element signature="e#978#979#0" expanded="false" />
+            <element signature="e#1007#1008#0" expanded="false" />
+            <element signature="e#1042#1043#0" expanded="false" />
+            <element signature="e#1073#1074#0" expanded="false" />
+            <element signature="e#1104#1105#0" expanded="false" />
+            <element signature="e#1131#1132#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pmdm/ud5sqlite/AddContactos.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="47" column="29" lean-forward="false" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/tipos.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pmdm/ud5sqlite/AdaptadorBD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="29" column="53" lean-forward="true" selection-start-line="29" selection-start-column="53" selection-end-line="29" selection-end-column="53" />
+          <folding>
+            <element signature="e#7616#7627#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pmdm/ud5sqlite/Ud5_SQLiteActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#968#969#0" expanded="false" />
+            <element signature="e#1024#1025#0" expanded="false" />
+            <element signature="e#1209#1210#0" expanded="false" />
+            <element signature="e#1270#1271#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pmdm/ud5sqlite/Consulta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pmdm/ud5sqlite/Contactos.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#624#625#0" expanded="false" />
+            <element signature="e#656#657#0" expanded="false" />
+            <element signature="e#699#700#0" expanded="false" />
+            <element signature="e#731#732#0" expanded="false" />
+            <element signature="e#780#781#0" expanded="false" />
+            <element signature="e#816#817#0" expanded="false" />
+            <element signature="e#857#858#0" expanded="false" />
+            <element signature="e#885#886#0" expanded="false" />
+            <element signature="e#918#919#0" expanded="false" />
+            <element signature="e#947#948#0" expanded="false" />
+            <element signature="e#978#979#0" expanded="false" />
+            <element signature="e#1007#1008#0" expanded="false" />
+            <element signature="e#1042#1043#0" expanded="false" />
+            <element signature="e#1073#1074#0" expanded="false" />
+            <element signature="e#1104#1105#0" expanded="false" />
+            <element signature="e#1131#1132#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2566,7 +2714,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2592,8 +2742,6 @@
           <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
           <folding>
             <element signature="e#7616#7627#0" expanded="true" />
-            <element signature="e#9073#9074#0" expanded="true" />
-            <element signature="e#9150#9151#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2677,36 +2825,55 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pmdm/ud5sqlite/Contactos.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-437">
+        <state relative-caret-position="30">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="e#624#625#0" expanded="false" />
+            <element signature="e#656#657#0" expanded="false" />
+            <element signature="e#699#700#0" expanded="false" />
+            <element signature="e#731#732#0" expanded="false" />
+            <element signature="e#780#781#0" expanded="false" />
+            <element signature="e#816#817#0" expanded="false" />
+            <element signature="e#857#858#0" expanded="false" />
+            <element signature="e#885#886#0" expanded="false" />
+            <element signature="e#918#919#0" expanded="false" />
+            <element signature="e#947#948#0" expanded="false" />
+            <element signature="e#978#979#0" expanded="false" />
+            <element signature="e#1007#1008#0" expanded="false" />
+            <element signature="e#1042#1043#0" expanded="false" />
+            <element signature="e#1073#1074#0" expanded="false" />
+            <element signature="e#1104#1105#0" expanded="false" />
+            <element signature="e#1131#1132#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pmdm/ud5sqlite/AddContactos.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
+        <state relative-caret-position="735">
           <caret line="57" column="33" lean-forward="false" selection-start-line="57" selection-start-column="33" selection-end-line="57" selection-end-column="33" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pmdm/ud5sqlite/Consulta.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="67" column="0" lean-forward="true" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="840">
+          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pmdm/ud5sqlite/AdaptadorBD.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-714">
-          <caret line="165" column="19" lean-forward="false" selection-start-line="165" selection-start-column="19" selection-end-line="165" selection-end-column="19" />
+        <state relative-caret-position="150">
+          <caret line="174" column="9" lean-forward="true" selection-start-line="174" selection-start-column="9" selection-end-line="174" selection-end-column="9" />
           <folding>
             <element signature="e#7616#7627#0" expanded="true" />
-            <element signature="e#9073#9074#0" expanded="true" />
-            <element signature="e#9150#9151#0" expanded="true" />
           </folding>
         </state>
       </provider>
