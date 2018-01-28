@@ -1,0 +1,2 @@
+/home/ramon/Escritorio/Documentos/PMDM/Tema 7 Multimedia/Ejemplos_Android_Studio/Ud7_GrabarAudio/app/build/intermediates/classes/debug
+/home/ramon/Escritorio/Documentos/PMDM/Tema 7 Multimedia/Ejemplos_Android_Studio/Ud7_GrabarAudio/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-20b4d221f15230f89da9253983203808419007ee.jar

@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/20_reproducir_sonido_bucle/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/20_reproducir_sonido_bucle/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "108,55",
+                        "endColumns": "54,52",
+                        "endOffsets": "158,103"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,110",
+                        "endColumns": "54,52",
+                        "endOffsets": "105,158"
+                    }
+                }
+            ]
+        }
+    ]
+}

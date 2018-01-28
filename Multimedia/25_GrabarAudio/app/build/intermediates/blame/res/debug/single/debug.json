@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/25_GrabarAudio/app/build/intermediates/res/merged/debug/menu_ud7_grabar_audio.xml.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/25_GrabarAudio/app/src/main/res/menu/ud7_grabar_audio.xml"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/25_GrabarAudio/app/build/intermediates/res/merged/debug/layout_activity_ud7_grabar_audio.xml.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/25_GrabarAudio/app/src/main/res/layout/activity_ud7_grabar_audio.xml"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/25_GrabarAudio/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/25_GrabarAudio/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/25_GrabarAudio/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/25_GrabarAudio/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/25_GrabarAudio/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/25_GrabarAudio/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/25_GrabarAudio/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/25_GrabarAudio/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    }
+]
