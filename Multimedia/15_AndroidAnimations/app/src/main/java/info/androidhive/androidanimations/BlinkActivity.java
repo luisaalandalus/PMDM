@@ -53,6 +53,7 @@ public class BlinkActivity extends Activity implements AnimationListener {
 
         // check for blink animation
         if (animation == animBlink) {
+            animation.cancel();
         }
 
     }

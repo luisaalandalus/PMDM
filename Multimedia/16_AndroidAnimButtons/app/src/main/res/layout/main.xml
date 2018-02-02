@@ -56,8 +56,5 @@
                 android:text="Rotate" />
         </LinearLayout>
     
-
-    
-    
 	</FrameLayout>
 </LinearLayout>

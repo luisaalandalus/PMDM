@@ -1,6 +1,81 @@
 {
     "logs": [
         {
+            "outputFile": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/01_Ejemplo_Canvas_Paint/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/01_Ejemplo_Canvas_Paint/app/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
+                    },
+                    "to": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "105,163",
+                        "endColumns": "57,55",
+                        "endOffsets": "158,214"
+                    }
+                },
+                {
+                    "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/01_Ejemplo_Canvas_Paint/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "4,3,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "119,58,173",
+                        "endColumns": "52,59,52",
+                        "endOffsets": "167,113,221"
+                    },
+                    "to": {
+                        "startLines": "5,6,7",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "219,272,332",
+                        "endColumns": "52,59,52",
+                        "endOffsets": "267,327,380"
+                    }
+                },
+                {
+                    "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/01_Ejemplo_Canvas_Paint/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,522",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "481,679"
+                    },
+                    "to": {
+                        "startLines": "8,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "385,676",
+                        "endLines": "14,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "671,831"
+                    }
+                },
+                {
+                    "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/01_Ejemplo_Canvas_Paint/app/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "57",
+                        "endColumns": "45",
+                        "endOffsets": "102"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "49",
+                        "endOffsets": "100"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/01_Ejemplo_Canvas_Paint/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {

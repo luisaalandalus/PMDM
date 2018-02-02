@@ -1,7 +1,7 @@
 #Internal package file, do not edit.
-#Sun Jan 28 16:12:48 CET 2018
+#Thu Feb 01 09:08:50 CET 2018
 0.baseType=DIRECTORY
-0.base=/Users/luisaparragarcia/AndroidStudioProjects/PMDM/01_Ejemplo_Canvas_Paint/app/build/intermediates/transforms/dexMerger/debug/0
+0.base=/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/01_Ejemplo_Canvas_Paint/app/build/intermediates/transforms/dexMerger/debug/0
 0.path=classes.dex
 0.set=DEX
 count=1

@@ -102,6 +102,6 @@ public class MyView extends View {
         c.drawCircle(centroX, centroY, RADIO, p);
 
         // define una animación con un retraso de 100 milisegundos
-        postInvalidateDelayed(100);
+        postInvalidateDelayed(1);
     }
 }

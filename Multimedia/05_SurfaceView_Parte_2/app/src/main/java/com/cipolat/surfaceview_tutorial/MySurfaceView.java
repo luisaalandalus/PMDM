@@ -78,7 +78,7 @@ public class MySurfaceView extends SurfaceView implements
         int anchobitmap = imgBoton_libre.getWidth();
         int altobitmap = imgBoton_libre.getHeight();
 
-        // pinto fondo de negro
+        // pinto fondo de gris
         canvas.drawColor(Color.GRAY);
 
         // circulo externo
