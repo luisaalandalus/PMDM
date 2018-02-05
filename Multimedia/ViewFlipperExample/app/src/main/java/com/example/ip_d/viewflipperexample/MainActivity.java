@@ -2,6 +2,7 @@ package com.example.ip_d.viewflipperexample;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+import android.util.Log;
 import android.view.MotionEvent;
 import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
@@ -47,12 +48,16 @@ public class MainActivity extends AppCompatActivity {
         switch (touchevent.getAction()) {
             case MotionEvent.ACTION_DOWN:
                 initialX = touchevent.getX();
+                Log.i("INITIALX-ACTION_DOWN","Posición inicial X "+initialX);
                 break;
             case MotionEvent.ACTION_UP:
                 float finalX = touchevent.getX();
+                Log.i("FINALX-ACTION_UP","Posición final X "+finalX);
+
                 if (initialX > finalX) {
-                    if (simpleViewFlipper.getDisplayedChild() == images.length)
+                    if (simpleViewFlipper.getDisplayedChild() == images.length-1)
                         break;
+                    Log.i("DISPLAYEDCHILD","Displayed child "+simpleViewFlipper.getDisplayedChild());
 
                     simpleViewFlipper.showNext();
                 } else {
@@ -60,7 +65,7 @@ public class MainActivity extends AppCompatActivity {
                         break;
 
 
-
+                    Log.i("DISPLAYEDCHILD","Displayed child "+simpleViewFlipper.getDisplayedChild());
                     simpleViewFlipper.showPrevious();
                 }
                 break;
