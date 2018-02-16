@@ -26,13 +26,13 @@ public class MainActivity extends Activity {
     	
     	loadPref();
     }
-
+	//Hababas
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         getMenuInflater().inflate(R.menu.activity_main, menu);
         return true;
     }
-
+	//Habebes
 	@Override
 	public boolean onOptionsItemSelected(MenuItem item) {
 
@@ -48,7 +48,7 @@ public class MainActivity extends Activity {
 		
         return true;
 	}
-
+	//Habibis
 	@Override
 	protected void onActivityResult(int requestCode, int resultCode, Intent data) {
 		// TODO Auto-generated method stub
@@ -71,5 +71,5 @@ public class MainActivity extends Activity {
     	prefEditText.setText(my_edittext_preference);
 
 	}
-        
+        //Habubus
 }
