@@ -1,0 +1,7 @@
+#Fri Jan 06 17:56:51 CET 2017
+base.0=/home/ramon/Documentos/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_4_Multimedia/Ejemplos_codigo_fuente/02_Path_Canvas_Ejemplo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d04284d94247d48676cd7fc39ac0b4c44bf86fe2
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/ramon/Documentos/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_4_Multimedia/Ejemplos_codigo_fuente/02_Path_Canvas_Ejemplo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_be8dbdd4bc3e7ce28eea0f34d8f0227c1766024f/classes.dex
+base.1=/home/ramon/Documentos/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_4_Multimedia/Ejemplos_codigo_fuente/02_Path_Canvas_Ejemplo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_be8dbdd4bc3e7ce28eea0f34d8f0227c1766024f
+file.0=/home/ramon/Documentos/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_4_Multimedia/Ejemplos_codigo_fuente/02_Path_Canvas_Ejemplo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d04284d94247d48676cd7fc39ac0b4c44bf86fe2/classes.dex

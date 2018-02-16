@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<preference-headers xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.v7.widget.Toolbar
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/toolbar"
+        app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="?attr/actionBarSize"
+        app:navigationContentDescription="@string/abc_action_bar_up_description"
+        android:background="?attr/colorPrimary"
+        app:navigationIcon="?attr/homeAsUpIndicator"
+        app:title="@string/action_settings"
+        />
+<header
+    android:fragment="com.herprogramacion.revistatempor.SettingsActivity$SettingsFragment"
+    android:title="@string/pref_gen"
+    android:summary="Preferencias Generales" >
+    <extra
+        android:name="settings"
+        android:value="generales"/>
+</header>
+<header
+    android:fragment="com.herprogramacion.revistatempor.SettingsActivity$SettingsFragment"
+    android:title="@string/pref_twitter"
+    android:summary="Datos de Twitter" >
+
+    <extra android:name="settings" android:value="twitter" />
+</header>
+</preference-headers><!-- From: file:/C:/Users/Hermosa%20Programación/Desktop/RevistaTempor/app/src/main/res/xml/pref_headers.xml -->

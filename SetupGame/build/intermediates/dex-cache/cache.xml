@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/luisaparragarcia/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.9.8/84024cd60ad6f26370891fbcd17de9f0167e662/gdx-backend-android-1.9.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="084024cd60ad6f26370891fbcd17de9f0167e662">
+        <dex dex="/Users/luisaparragarcia/AndroidStudioProjects/PMDM/SetupGame/android/build/intermediates/pre-dexed/debug/gdx-backend-android-1.9.8_09f0264eaa67b75883994b004097052905f052c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luisaparragarcia/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.9.8/a35a0076fbce873f9c2d5a1a1c8066244231bb3c/gdx-1.9.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="a35a0076fbce873f9c2d5a1a1c8066244231bb3c">
+        <dex dex="/Users/luisaparragarcia/AndroidStudioProjects/PMDM/SetupGame/android/build/intermediates/pre-dexed/debug/gdx-1.9.8_0e19de5465106478eec0377ad9c6bb1e1d486eba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luisaparragarcia/AndroidStudioProjects/PMDM/SetupGame/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="3444b680913501ec46f0b487bd5ee20154c7a27f">
+        <dex dex="/Users/luisaparragarcia/AndroidStudioProjects/PMDM/SetupGame/android/build/intermediates/pre-dexed/debug/core-1.0_6ce4af123572a769baaf2ec29ebd6c1ade87af7c.jar" />
+    </item>
+
+</items>

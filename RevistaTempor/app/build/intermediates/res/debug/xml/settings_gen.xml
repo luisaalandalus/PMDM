@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- PREFERENCIAS GENERALES -->
+    <PreferenceCategory
+        android:key="pref_gen"
+        android:title="@string/pref_gen">
+        <!-- Visibilidad de Miniaturas de las Entradas -->
+        <CheckBoxPreference
+            android:key="miniaturas"
+            android:title="@string/pref_miniaturas"
+            android:defaultValue="true" />
+
+        <!-- Cantidad máxima de entradas -->
+        <ListPreference
+            android:key="numArticulos"
+            android:title="@string/pref_numArticulos_titulo"
+            android:defaultValue="6"
+            android:entries="@array/pref_numArticulos_entradas"
+            android:entryValues="@array/pref_numArticulos_valores"
+            android:summary="@string/pref_numArticulos_resumen" />
+
+        <!-- Nivel de volumen de los sonidos -->
+        <com.herprogramacion.revistatempor.VolumePreference
+            android:key="pref_vol"
+            android:defaultValue="75"/>
+
+    </PreferenceCategory>
+</PreferenceScreen><!-- From: file:/C:/Users/Hermosa%20Programación/Desktop/RevistaTempor/app/src/main/res/xml/settings_gen.xml -->
