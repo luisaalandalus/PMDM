@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/05_SurfaceView_Parte_2/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/05_SurfaceView_Parte_2/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "17,74,127,178",
+                        "endColumns": "56,52,50,67",
+                        "endOffsets": "69,122,173,241"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,112,165,216",
+                        "endColumns": "56,52,50,67",
+                        "endOffsets": "107,160,211,279"
+                    }
+                },
+                {
+                    "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/05_SurfaceView_Parte_2/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endColumns": "58",
+                        "endOffsets": "71"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "284",
+                        "endColumns": "57",
+                        "endOffsets": "337"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.alandalus.luisaparragarcia.interfazusuario.TextoImagenes"
+    tools:layout_editor_absoluteY="81dp"
+    tools:layout_editor_absoluteX="0dp">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="366dp"
+        android:layout_height="101dp"
+        android:scaleType="fitXY"
+        app:srcCompat="@drawable/tunnel"
+        android:layout_marginStart="12dp"
+        android:layout_marginEnd="12dp"
+        tools:layout_constraintTop_creator="1"
+        tools:layout_constraintRight_creator="1"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_marginTop="8dp"
+        tools:layout_constraintLeft_creator="1"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginLeft="12dp"
+        android:layout_marginRight="12dp"
+        app:layout_constraintHorizontal_bias="0.0" />
+
+    <Button
+        android:id="@+id/buttonStart"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginRight="56dp"
+        android:layout_marginTop="8dp"
+        android:layout_weight="1"
+        android:onClick="start"
+        android:text="@string/comenzar"
+        app:layout_constraintBottom_toTopOf="@+id/buttonStop"
+        app:layout_constraintRight_toRightOf="@+id/imageView"
+        app:layout_constraintTop_toBottomOf="@+id/imageView"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <Button
+        android:id="@+id/buttonStop"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:onClick="stop"
+        android:text="@string/parar"
+        android:layout_marginRight="4dp"
+        app:layout_constraintRight_toRightOf="@+id/buttonStart"
+        android:layout_marginTop="65dp"
+        app:layout_constraintTop_toBottomOf="@+id/imageView"
+        android:layout_marginEnd="4dp" />
+
+    <ImageSwitcher
+        android:id="@+id/imageSwitcher"
+        android:layout_width="154dp"
+        android:layout_height="97dp"
+        android:layout_marginStart="21dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintTop_toBottomOf="@+id/imageView"
+        tools:layout_constraintLeft_creator="1"
+        app:layout_constraintLeft_toLeftOf="@+id/imageView"
+        android:layout_marginLeft="21dp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="33dp"
+        android:layout_marginStart="33dp"
+        android:layout_marginTop="8dp"
+        android:text="@string/hola_mundo"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/guideline"
+        tools:layout_constraintLeft_creator="1"
+        android:background="#9ed2d6"/>
+
+    <android.support.constraint.Guideline
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/guideline"
+        app:layout_constraintGuide_begin="222dp"
+        android:orientation="horizontal"
+        tools:layout_editor_absoluteY="222dp"
+        tools:layout_editor_absoluteX="0dp" />
+
+    <EditText
+        android:id="@+id/TxtImagenHint"
+        android:layout_width="368dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="8dp"
+        android:drawableLeft="@android:drawable/ic_lock_idle_lock"
+        android:hint="@string/usuario"
+        android:inputType="text"
+        android:textColorHint="#CFCFCF"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/TiLayout" />
+
+    <EditText
+        android:id="@+id/TxtBasico"
+        android:layout_width="357dp"
+        android:layout_height="46dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="8dp"
+        android:ems="10"
+        android:hint="Demo spannable"
+        android:inputType="textPersonName"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/guideline" />
+    <Button android:id="@+id/BtnNegrita"
+        android:layout_width="149dp"
+        android:layout_height="48dp"
+        android:text="@string/negrita"
+        app:layout_constraintLeft_toRightOf="@+id/BtnSetText"
+        android:layout_marginLeft="8dp"
+        app:layout_constraintTop_toTopOf="@+id/BtnSetText"
+        android:layout_marginStart="8dp" />
+
+    <Button android:id="@+id/BtnSetText"
+        android:layout_width="151dp"
+        android:layout_height="48dp"
+        android:text="@string/settext"
+        android:layout_marginLeft="8dp"
+        app:layout_constraintLeft_toLeftOf="@+id/TxtBasico"
+        android:layout_marginTop="8dp"
+        app:layout_constraintTop_toBottomOf="@+id/TxtBasico"
+        android:layout_marginStart="8dp" />
+
+    <android.support.design.widget.TextInputLayout
+        android:id="@+id/TiLayout"
+        android:layout_width="210dp"
+        android:layout_height="92dp"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="7dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/BtnSetText"
+        android:layout_marginStart="8dp">
+
+        <EditText
+            android:id="@+id/TxtInput"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Escribe un número par" />
+
+    </android.support.design.widget.TextInputLayout>
+
+    <Button
+        android:id="@+id/BtnInputLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@id/TiLayout"
+        android:layout_marginLeft="34dp"
+        android:layout_marginTop="8dp"
+        android:text="@string/comprobar"
+        app:layout_constraintLeft_toRightOf="@+id/TiLayout"
+        app:layout_constraintTop_toTopOf="@+id/TiLayout" />
+
+
+</android.support.constraint.ConstraintLayout>

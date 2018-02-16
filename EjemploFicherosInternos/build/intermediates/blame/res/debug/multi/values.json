@@ -1,0 +1,201 @@
+[
+    {
+        "outputFile": "C:\\Users\\usuario\\Desktop\\PMDM_Materiales_Actualizados_AndroidStudio\\DAM_PMDM_6\\ProyectosEclipse\\PMDM06_CONT_R11_EjemploFicherosInternos\\EjemploFicherosInternos\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\usuario\\Desktop\\PMDM_Materiales_Actualizados_AndroidStudio\\DAM_PMDM_6\\ProyectosEclipse\\PMDM06_CONT_R11_EjemploFicherosInternos\\EjemploFicherosInternos\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\Users\\usuario\\Desktop\\PMDM_Materiales_Actualizados_AndroidStudio\\DAM_PMDM_6\\ProyectosEclipse\\PMDM06_CONT_R11_EjemploFicherosInternos\\EjemploFicherosInternos\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "C:\\Users\\usuario\\Desktop\\PMDM_Materiales_Actualizados_AndroidStudio\\DAM_PMDM_6\\ProyectosEclipse\\PMDM06_CONT_R11_EjemploFicherosInternos\\EjemploFicherosInternos\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 122,
+                        "endColumn": 52,
+                        "endOffset": 170
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 62,
+                    "endOffset": 280
+                },
+                "from": {
+                    "file": "C:\\Users\\usuario\\Desktop\\PMDM_Materiales_Actualizados_AndroidStudio\\DAM_PMDM_6\\ProyectosEclipse\\PMDM06_CONT_R11_EjemploFicherosInternos\\EjemploFicherosInternos\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 62,
+                        "endOffset": 116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 285,
+                    "endColumn": 45,
+                    "endOffset": 326
+                },
+                "from": {
+                    "file": "C:\\Users\\usuario\\Desktop\\PMDM_Materiales_Actualizados_AndroidStudio\\DAM_PMDM_6\\ProyectosEclipse\\PMDM06_CONT_R11_EjemploFicherosInternos\\EjemploFicherosInternos\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 235,
+                        "endColumn": 45,
+                        "endOffset": 276
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 331,
+                    "endColumn": 41,
+                    "endOffset": 368
+                },
+                "from": {
+                    "file": "C:\\Users\\usuario\\Desktop\\PMDM_Materiales_Actualizados_AndroidStudio\\DAM_PMDM_6\\ProyectosEclipse\\PMDM06_CONT_R11_EjemploFicherosInternos\\EjemploFicherosInternos\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 281,
+                        "endColumn": 41,
+                        "endOffset": 318
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 373,
+                    "endColumn": 48,
+                    "endOffset": 417
+                },
+                "from": {
+                    "file": "C:\\Users\\usuario\\Desktop\\PMDM_Materiales_Actualizados_AndroidStudio\\DAM_PMDM_6\\ProyectosEclipse\\PMDM06_CONT_R11_EjemploFicherosInternos\\EjemploFicherosInternos\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 323,
+                        "endColumn": 48,
+                        "endOffset": 367
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 422,
+                    "endColumn": 58,
+                    "endOffset": 476
+                },
+                "from": {
+                    "file": "C:\\Users\\usuario\\Desktop\\PMDM_Materiales_Actualizados_AndroidStudio\\DAM_PMDM_6\\ProyectosEclipse\\PMDM06_CONT_R11_EjemploFicherosInternos\\EjemploFicherosInternos\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 176,
+                        "endColumn": 58,
+                        "endOffset": 230
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 481,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 767
+                },
+                "from": {
+                    "file": "C:\\Users\\usuario\\Desktop\\PMDM_Materiales_Actualizados_AndroidStudio\\DAM_PMDM_6\\ProyectosEclipse\\PMDM06_CONT_R11_EjemploFicherosInternos\\EjemploFicherosInternos\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 772,
+                    "endLine": 19,
+                    "endColumn": 12,
+                    "endOffset": 927
+                },
+                "from": {
+                    "file": "C:\\Users\\usuario\\Desktop\\PMDM_Materiales_Actualizados_AndroidStudio\\DAM_PMDM_6\\ProyectosEclipse\\PMDM06_CONT_R11_EjemploFicherosInternos\\EjemploFicherosInternos\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/05_SurfaceView_Parte_2.iml" filepath="$PROJECT_DIR$/05_SurfaceView_Parte_2.iml" />
+      <module fileurl="file://$USER_HOME$/Documentos/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_4_Multimedia/Ejemplos_codigo_fuente/05_SurfaceView_Parte_2/05_SurfaceView_Parte_2.iml" filepath="$USER_HOME$/Documentos/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_4_Multimedia/Ejemplos_codigo_fuente/05_SurfaceView_Parte_2/05_SurfaceView_Parte_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$USER_HOME$/Documentos/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_4_Multimedia/Ejemplos_codigo_fuente/05_SurfaceView_Parte_2/app/app.iml" filepath="$USER_HOME$/Documentos/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_4_Multimedia/Ejemplos_codigo_fuente/05_SurfaceView_Parte_2/app/app.iml" />
+    </modules>
+  </component>
+</project>

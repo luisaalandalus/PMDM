@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ejemplo Ficheros Externos</string>
+    <string name="action_settings">Settings</string>
+    <string name="texto">Introduce aquí un texto.</string>
+    <string name="botonEsc">Escribir en SD</string>
+    <string name="botonLee">Leer de SD</string>
+    <string name="botonEscPublic">Escribir en SD Público</string>
+
+</resources>

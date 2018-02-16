@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"/>
+
+</menu><!-- From: file:/home/ramon/Escritorio/Documentos/PMDM/Tema%207%20Multimedia/Ejemplos_Android_Studio/Ud7_GrabarAudio/app/src/main/res/menu/ud7_grabar_audio.xml -->

@@ -1,0 +1,46 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Ud7ReproduceAudio" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Mi reproductor" />
+    
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+      
+        <Button
+           android:id="@+id/play"
+           android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Play" />"
+        
+        
+         <Button
+           android:id="@+id/continuar"
+           android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Continuar" />
+        
+         <Button
+           android:id="@+id/pausa"
+           android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Pausa" />
+        
+         <Button
+           android:id="@+id/parar"
+           android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Parar" />
+        
+        
+        
+        </LinearLayout>
+</LinearLayout><!-- From: file:/home/ramon/Escritorio/Documentos/PMDM/Tema%207%20Multimedia/Ejemplos_Android_Studio/Ud7_ReproduceAudio/app/src/main/res/layout/activity_ud7_reproduce_audio.xml -->

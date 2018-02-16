@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Define una animación en base a varias imágenes -->
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- imagen 1ª que dura 50 milisegundos -->
+    <item
+        android:drawable="@drawable/s1"
+        android:duration="50"/>
+
+    <!-- imagen 2ª que dura 50 milisegundos -->
+    <item
+        android:drawable="@drawable/s2"
+        android:duration="50"/>
+
+    <!-- imagen 3ª que dura 50 milisegundos -->
+    <item
+        android:drawable="@drawable/s3"
+        android:duration="50"/>
+
+    <!-- imagen 4ª que dura 50 milisegundos -->
+    <item
+        android:drawable="@drawable/s4"
+        android:duration="50"/>
+
+    <!-- imagen 5ª que dura 50 milisegundos -->
+    <item
+        android:drawable="@drawable/s5"
+        android:duration="50"/>
+</animation-list>

@@ -1,0 +1,51 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /media/diurno/TOSHIBA EXT/COPIA PORTATIL/AndroidStudioProjects/PMDM/EjemploFicherosInternos/AndroidManifest.xml:2:1-27:12
+INJECTED from /media/diurno/TOSHIBA EXT/COPIA PORTATIL/AndroidStudioProjects/PMDM/EjemploFicherosInternos/AndroidManifest.xml:2:1-27:12
+INJECTED from /media/diurno/TOSHIBA EXT/COPIA PORTATIL/AndroidStudioProjects/PMDM/EjemploFicherosInternos/AndroidManifest.xml:2:1-27:12
+INJECTED from /media/diurno/TOSHIBA EXT/COPIA PORTATIL/AndroidStudioProjects/PMDM/EjemploFicherosInternos/AndroidManifest.xml:2:1-27:12
+INJECTED from /media/diurno/TOSHIBA EXT/COPIA PORTATIL/AndroidStudioProjects/PMDM/EjemploFicherosInternos/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /media/diurno/TOSHIBA EXT/COPIA PORTATIL/AndroidStudioProjects/PMDM/EjemploFicherosInternos/AndroidManifest.xml:3:5-50
+	android:versionName
+		ADDED from /media/diurno/TOSHIBA EXT/COPIA PORTATIL/AndroidStudioProjects/PMDM/EjemploFicherosInternos/AndroidManifest.xml:5:5-30
+		INJECTED from /media/diurno/TOSHIBA EXT/COPIA PORTATIL/AndroidStudioProjects/PMDM/EjemploFicherosInternos/AndroidManifest.xml
+		INJECTED from /media/diurno/TOSHIBA EXT/COPIA PORTATIL/AndroidStudioProjects/PMDM/EjemploFicherosInternos/AndroidManifest.xml
+	xmlns:android
+		ADDED from /media/diurno/TOSHIBA EXT/COPIA PORTATIL/AndroidStudioProjects/PMDM/EjemploFicherosInternos/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /media/diurno/TOSHIBA EXT/COPIA PORTATIL/AndroidStudioProjects/PMDM/EjemploFicherosInternos/AndroidManifest.xml:4:5-28
+		INJECTED from /media/diurno/TOSHIBA EXT/COPIA PORTATIL/AndroidStudioProjects/PMDM/EjemploFicherosInternos/AndroidManifest.xml
+		INJECTED from /media/diurno/TOSHIBA EXT/COPIA PORTATIL/AndroidStudioProjects/PMDM/EjemploFicherosInternos/AndroidManifest.xml
+uses-sdk
+ADDED from /media/diurno/TOSHIBA EXT/COPIA PORTATIL/AndroidStudioProjects/PMDM/EjemploFicherosInternos/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /media/diurno/TOSHIBA EXT/COPIA PORTATIL/AndroidStudioProjects/PMDM/EjemploFicherosInternos/AndroidManifest.xml:9:9-38
+	android:minSdkVersion
+		ADDED from /media/diurno/TOSHIBA EXT/COPIA PORTATIL/AndroidStudioProjects/PMDM/EjemploFicherosInternos/AndroidManifest.xml:8:9-34
+application
+ADDED from /media/diurno/TOSHIBA EXT/COPIA PORTATIL/AndroidStudioProjects/PMDM/EjemploFicherosInternos/AndroidManifest.xml:11:5-25:19
+	android:label
+		ADDED from /media/diurno/TOSHIBA EXT/COPIA PORTATIL/AndroidStudioProjects/PMDM/EjemploFicherosInternos/AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from /media/diurno/TOSHIBA EXT/COPIA PORTATIL/AndroidStudioProjects/PMDM/EjemploFicherosInternos/AndroidManifest.xml:13:9-45
+	android:allowBackup
+		ADDED from /media/diurno/TOSHIBA EXT/COPIA PORTATIL/AndroidStudioProjects/PMDM/EjemploFicherosInternos/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /media/diurno/TOSHIBA EXT/COPIA PORTATIL/AndroidStudioProjects/PMDM/EjemploFicherosInternos/AndroidManifest.xml:15:9-40
+activity#com.example.ejemploficherosinternos.MainActivity
+ADDED from /media/diurno/TOSHIBA EXT/COPIA PORTATIL/AndroidStudioProjects/PMDM/EjemploFicherosInternos/AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from /media/diurno/TOSHIBA EXT/COPIA PORTATIL/AndroidStudioProjects/PMDM/EjemploFicherosInternos/AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from /media/diurno/TOSHIBA EXT/COPIA PORTATIL/AndroidStudioProjects/PMDM/EjemploFicherosInternos/AndroidManifest.xml:17:13-76
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /media/diurno/TOSHIBA EXT/COPIA PORTATIL/AndroidStudioProjects/PMDM/EjemploFicherosInternos/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /media/diurno/TOSHIBA EXT/COPIA PORTATIL/AndroidStudioProjects/PMDM/EjemploFicherosInternos/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /media/diurno/TOSHIBA EXT/COPIA PORTATIL/AndroidStudioProjects/PMDM/EjemploFicherosInternos/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /media/diurno/TOSHIBA EXT/COPIA PORTATIL/AndroidStudioProjects/PMDM/EjemploFicherosInternos/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /media/diurno/TOSHIBA EXT/COPIA PORTATIL/AndroidStudioProjects/PMDM/EjemploFicherosInternos/AndroidManifest.xml:22:27-74

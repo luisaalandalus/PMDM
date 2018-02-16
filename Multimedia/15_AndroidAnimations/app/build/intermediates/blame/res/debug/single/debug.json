@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/build/intermediates/res/merged/debug/drawable-hdpi_mr_bean.jpg.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/src/main/res/drawable-hdpi/mr_bean.jpg"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/build/intermediates/res/merged/debug/anim_flip.xml.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/src/main/res/anim/flip.xml"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/build/intermediates/res/merged/debug/layout_activity_zoom_in.xml.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/src/main/res/layout/activity_zoom_in.xml"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/build/intermediates/res/merged/debug/layout_activity_rotate.xml.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/src/main/res/layout/activity_rotate.xml"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/build/intermediates/res/merged/debug/layout_activity_fadeout.xml.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/src/main/res/layout/activity_fadeout.xml"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/build/intermediates/res/merged/debug/layout_activity_fadein.xml.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/src/main/res/layout/activity_fadein.xml"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/build/intermediates/res/merged/debug/anim_sequential.xml.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/src/main/res/anim/sequential.xml"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/build/intermediates/res/merged/debug/anim_bounce.xml.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/src/main/res/anim/bounce.xml"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/build/intermediates/res/merged/debug/layout_activity_move.xml.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/src/main/res/layout/activity_move.xml"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/build/intermediates/res/merged/debug/anim_rotate.xml.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/src/main/res/anim/rotate.xml"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/build/intermediates/res/merged/debug/anim_blink.xml.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/src/main/res/anim/blink.xml"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/build/intermediates/res/merged/debug/anim_move.xml.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/src/main/res/anim/move.xml"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/build/intermediates/res/merged/debug/layout_activity_sequential.xml.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/src/main/res/layout/activity_sequential.xml"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/build/intermediates/res/merged/debug/anim_together.xml.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/src/main/res/anim/together.xml"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/build/intermediates/res/merged/debug/menu_main.xml.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/build/intermediates/res/merged/debug/anim_zoom_in.xml.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/src/main/res/anim/zoom_in.xml"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/build/intermediates/res/merged/debug/drawable-hdpi_twitter.png.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/src/main/res/drawable-hdpi/twitter.png"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/build/intermediates/res/merged/debug/anim_fade_out.xml.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/src/main/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/build/intermediates/res/merged/debug/layout_activity_zoom_out.xml.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/src/main/res/layout/activity_zoom_out.xml"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/build/intermediates/res/merged/debug/drawable-hdpi_man_of_steel.jpg.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/src/main/res/drawable-hdpi/man_of_steel.jpg"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/build/intermediates/res/merged/debug/anim_slide_up.xml.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/src/main/res/anim/slide_up.xml"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/build/intermediates/res/merged/debug/layout_activity_slide_up.xml.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/src/main/res/layout/activity_slide_up.xml"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/build/intermediates/res/merged/debug/layout_activity_bounce.xml.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/src/main/res/layout/activity_bounce.xml"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/build/intermediates/res/merged/debug/drawable-hdpi_rotate_clock.png.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/src/main/res/drawable-hdpi/rotate_clock.png"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/build/intermediates/res/merged/debug/layout_activity_together.xml.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/src/main/res/layout/activity_together.xml"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/build/intermediates/res/merged/debug/anim_zoom_out.xml.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/src/main/res/anim/zoom_out.xml"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/build/intermediates/res/merged/debug/layout_activity_crossfade.xml.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/src/main/res/layout/activity_crossfade.xml"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/build/intermediates/res/merged/debug/layout_activity_slide_down.xml.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/src/main/res/layout/activity_slide_down.xml"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/build/intermediates/res/merged/debug/layout_activity_blink.xml.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/src/main/res/layout/activity_blink.xml"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/build/intermediates/res/merged/debug/anim_fade_in.xml.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/src/main/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/build/intermediates/res/merged/debug/anim_slide_down.xml.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/15_AndroidAnimations/app/src/main/res/anim/slide_down.xml"
+    }
+]

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/ramon/Documentos/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_4_Multimedia/Ejemplos_codigo_fuente/11_Drawable_Bombilla/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a59fd494ffb9f50676415b382a9c5d7a30c36540">
+        <dex dex="/home/ramon/Documentos/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_4_Multimedia/Ejemplos_codigo_fuente/11_Drawable_Bombilla/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_79a6474d629c995cf27fe8dc112effe2e5351695/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ramon/Documentos/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_4_Multimedia/Ejemplos_codigo_fuente/11_Drawable_Bombilla/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d08986506a4103755ef3b487d25768e6b1093ef4">
+        <dex dex="/home/ramon/Documentos/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_4_Multimedia/Ejemplos_codigo_fuente/11_Drawable_Bombilla/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9a401787ca8bb01e4cd2aa04b6876060e9a1cedb/classes.dex" />
+    </item>
+
+</items>

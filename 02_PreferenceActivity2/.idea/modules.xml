@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/02_PreferenceActivity2.iml" filepath="$PROJECT_DIR$/02_PreferenceActivity2.iml" />
+      <module fileurl="file:///media/datos/ramon/IES Al-Andalus/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_3_Gestion_Datos/Ejemplos_Android_Studio/01_Preferencias/02_PreferenceActivity2/02_PreferenceActivity2.iml" filepath="/media/datos/ramon/IES Al-Andalus/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_3_Gestion_Datos/Ejemplos_Android_Studio/01_Preferencias/02_PreferenceActivity2/02_PreferenceActivity2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file:///media/datos/ramon/IES Al-Andalus/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_3_Gestion_Datos/Ejemplos_Android_Studio/01_Preferencias/02_PreferenceActivity2/app/app.iml" filepath="/media/datos/ramon/IES Al-Andalus/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_3_Gestion_Datos/Ejemplos_Android_Studio/01_Preferencias/02_PreferenceActivity2/app/app.iml" />
+    </modules>
+  </component>
+</project>

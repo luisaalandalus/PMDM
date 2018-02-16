@@ -1,0 +1,34 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Grabadora de audio" />
+	<Button
+	    android:id="@+id/btnIniGrabar"
+	    android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Inicio grabar" />
+	<Button
+	    android:id="@+id/btnPararGrabar"
+	    android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Parar grabar" />
+	<Button
+	    android:id="@+id/btnPlay"
+	    android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Reproducir grabación" />
+	
+	<Button
+	    android:id="@+id/btnPararPlay"
+	    android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Parar Reproducir" />	
+	
+</LinearLayout>
