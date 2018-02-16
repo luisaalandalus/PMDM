@@ -10,6 +10,7 @@ import android.view.MenuItem;
 import android.widget.CheckBox;
 import android.widget.TextView;
 
+//Clase principal
 public class MainActivity extends Activity {
 	
 	CheckBox prefCheckBox;
