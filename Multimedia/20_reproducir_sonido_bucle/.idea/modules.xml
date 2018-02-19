@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/20_reproducir_sonido_bucle.iml" filepath="$PROJECT_DIR$/20_reproducir_sonido_bucle.iml" />
+      <module fileurl="file:///media/datos/ramon/IES Al-Andalus/ASIGNATURAS/PMDM/semipresencial/DAM_PMDM07/Ejemplos_codigo_fuente/20_reproducir_sonido_bucle/20_reproducir_sonido_bucle.iml" filepath="/media/datos/ramon/IES Al-Andalus/ASIGNATURAS/PMDM/semipresencial/DAM_PMDM07/Ejemplos_codigo_fuente/20_reproducir_sonido_bucle/20_reproducir_sonido_bucle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file:///media/datos/ramon/IES Al-Andalus/ASIGNATURAS/PMDM/semipresencial/DAM_PMDM07/Ejemplos_codigo_fuente/20_reproducir_sonido_bucle/app/app.iml" filepath="/media/datos/ramon/IES Al-Andalus/ASIGNATURAS/PMDM/semipresencial/DAM_PMDM07/Ejemplos_codigo_fuente/20_reproducir_sonido_bucle/app/app.iml" />
+    </modules>
+  </component>
+</project>

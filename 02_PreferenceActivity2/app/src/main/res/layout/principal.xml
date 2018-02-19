@@ -1,0 +1,34 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical"
+              tools:context=".Ud5_Preferences">
+
+    <Button
+        android:id="@+id/btnPreferences"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onClickLoad"
+        android:text="@string/carga_preferencias"/>
+
+    <Button
+        android:id="@+id/btnDisplayValues"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onClickDisplay"
+        android:text="@string/ver_pref_editText1"/>
+
+    <EditText
+        android:id="@+id/txtString"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:id="@+id/btnModifyValues"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onClickModify"
+        android:text="@string/modifica_pref_editText1"/>
+
+</LinearLayout>

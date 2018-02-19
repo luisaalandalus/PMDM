@@ -1,0 +1,7 @@
+#Fri Jan 06 18:12:27 CET 2017
+base.0=/home/ramon/Documentos/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_4_Multimedia/Ejemplos_codigo_fuente/05_SurfaceView_Parte_2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f3fd114fc1b92df3086d6a462b644cab0006d29d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/ramon/Documentos/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_4_Multimedia/Ejemplos_codigo_fuente/05_SurfaceView_Parte_2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_229f2e00ee02d98d016e9de227bd665ba1bf748e/classes.dex
+base.1=/home/ramon/Documentos/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_4_Multimedia/Ejemplos_codigo_fuente/05_SurfaceView_Parte_2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_229f2e00ee02d98d016e9de227bd665ba1bf748e
+file.0=/home/ramon/Documentos/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_4_Multimedia/Ejemplos_codigo_fuente/05_SurfaceView_Parte_2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f3fd114fc1b92df3086d6a462b644cab0006d29d/classes.dex

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ejemplo Ficheros Internos</string>
+    <string name="action_settings">Settings</string>
+    <string name="texto">Introduce aquí un texto.</string>
+    <string name="botonEsc">Escribir</string>
+    <string name="botonLee">Leer</string>
+    <string name="botonLeeRaw">Leer Raw</string>
+    
+</resources>

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/21_SonidosEnAndroid/app/build/intermediates/res/merged/debug/raw_cat.mp3.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/21_SonidosEnAndroid/app/src/main/res/raw/cat.mp3"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/21_SonidosEnAndroid/app/build/intermediates/res/merged/debug/drawable-mdpi_icon.png.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/21_SonidosEnAndroid/app/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/21_SonidosEnAndroid/app/build/intermediates/res/merged/debug/layout_main.xml.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/21_SonidosEnAndroid/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/21_SonidosEnAndroid/app/build/intermediates/res/merged/debug/raw_cow.mp3.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/21_SonidosEnAndroid/app/src/main/res/raw/cow.mp3"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/21_SonidosEnAndroid/app/build/intermediates/res/merged/debug/drawable-hdpi_icon.png.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/21_SonidosEnAndroid/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/21_SonidosEnAndroid/app/build/intermediates/res/merged/debug/raw_laser.mp3.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/21_SonidosEnAndroid/app/src/main/res/raw/laser.mp3"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/21_SonidosEnAndroid/app/build/intermediates/res/merged/debug/raw_barkloud.mp3.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/21_SonidosEnAndroid/app/src/main/res/raw/barkloud.mp3"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/21_SonidosEnAndroid/app/build/intermediates/res/merged/debug/raw_pickup.mp3.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/21_SonidosEnAndroid/app/src/main/res/raw/pickup.mp3"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/21_SonidosEnAndroid/app/build/intermediates/res/merged/debug/drawable-ldpi_icon.png.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/21_SonidosEnAndroid/app/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/21_SonidosEnAndroid/app/build/intermediates/res/merged/debug/raw_explosion.mp3.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/21_SonidosEnAndroid/app/src/main/res/raw/explosion.mp3"
+    }
+]

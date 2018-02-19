@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Define un objeto StateListDrawable a través de un fichero XML
+     que usa una imagen entre varías (item) según el estado del objeto -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- carga la imagen definida en button_pressed.xml si está presionado o clickado el ToggleButton
+         botón (la imagen dura unos instante cuando cambia de un estado a otro
+         (de activado a no activado o al revés) -->
+    <item android:drawable="@drawable/button_pressed" android:state_pressed="true"/>
+
+    <!-- carga la imagen definida en button_checked.xml si está activado el ToggleButton -->
+    <item android:drawable="@drawable/button_checked" android:state_checked="true"/>
+
+    <!-- carga la imagen definida en button_checked.xml si está desactivado el ToggleButton -->
+    <item android:drawable="@drawable/button_default"/>
+
+</selector>

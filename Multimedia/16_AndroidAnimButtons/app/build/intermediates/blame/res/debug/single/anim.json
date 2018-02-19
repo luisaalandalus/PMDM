@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/media/datos/ramon/IES Al-Andalus/ASIGNATURAS/PMDM/semipresencial/DAM_PMDM07/Ejemplos_codigo_fuente/AndroidAnimButtons1/app/build/intermediates/res/merged/debug/anim/anim_scale.xml",
+        "source": "/media/datos/ramon/IES Al-Andalus/ASIGNATURAS/PMDM/semipresencial/DAM_PMDM07/Ejemplos_codigo_fuente/AndroidAnimButtons1/app/src/main/res/anim/anim_scale.xml"
+    },
+    {
+        "merged": "/media/datos/ramon/IES Al-Andalus/ASIGNATURAS/PMDM/semipresencial/DAM_PMDM07/Ejemplos_codigo_fuente/AndroidAnimButtons1/app/build/intermediates/res/merged/debug/anim/anim_translate.xml",
+        "source": "/media/datos/ramon/IES Al-Andalus/ASIGNATURAS/PMDM/semipresencial/DAM_PMDM07/Ejemplos_codigo_fuente/AndroidAnimButtons1/app/src/main/res/anim/anim_translate.xml"
+    },
+    {
+        "merged": "/media/datos/ramon/IES Al-Andalus/ASIGNATURAS/PMDM/semipresencial/DAM_PMDM07/Ejemplos_codigo_fuente/16_AndroidAnimButtons/app/build/intermediates/res/merged/debug/anim/anim_alpha.xml",
+        "source": "/media/datos/ramon/IES Al-Andalus/ASIGNATURAS/PMDM/semipresencial/DAM_PMDM07/Ejemplos_codigo_fuente/16_AndroidAnimButtons/app/src/main/res/anim/anim_alpha.xml"
+    },
+    {
+        "merged": "/media/datos/ramon/IES Al-Andalus/ASIGNATURAS/PMDM/semipresencial/DAM_PMDM07/Ejemplos_codigo_fuente/AndroidAnimButtons1/app/build/intermediates/res/merged/debug/anim/anim_rotate.xml",
+        "source": "/media/datos/ramon/IES Al-Andalus/ASIGNATURAS/PMDM/semipresencial/DAM_PMDM07/Ejemplos_codigo_fuente/AndroidAnimButtons1/app/src/main/res/anim/anim_rotate.xml"
+    },
+    {
+        "merged": "/media/datos/ramon/IES Al-Andalus/ASIGNATURAS/PMDM/semipresencial/DAM_PMDM07/Ejemplos_codigo_fuente/16_AndroidAnimButtons/app/build/intermediates/res/merged/debug/anim/anim_translate.xml",
+        "source": "/media/datos/ramon/IES Al-Andalus/ASIGNATURAS/PMDM/semipresencial/DAM_PMDM07/Ejemplos_codigo_fuente/16_AndroidAnimButtons/app/src/main/res/anim/anim_translate.xml"
+    },
+    {
+        "merged": "/media/datos/ramon/IES Al-Andalus/ASIGNATURAS/PMDM/semipresencial/DAM_PMDM07/Ejemplos_codigo_fuente/AndroidAnimButtons1/app/build/intermediates/res/merged/debug/anim/anim_alpha.xml",
+        "source": "/media/datos/ramon/IES Al-Andalus/ASIGNATURAS/PMDM/semipresencial/DAM_PMDM07/Ejemplos_codigo_fuente/AndroidAnimButtons1/app/src/main/res/anim/anim_alpha.xml"
+    },
+    {
+        "merged": "/media/datos/ramon/IES Al-Andalus/ASIGNATURAS/PMDM/semipresencial/DAM_PMDM07/Ejemplos_codigo_fuente/16_AndroidAnimButtons/app/build/intermediates/res/merged/debug/anim/anim_scale.xml",
+        "source": "/media/datos/ramon/IES Al-Andalus/ASIGNATURAS/PMDM/semipresencial/DAM_PMDM07/Ejemplos_codigo_fuente/16_AndroidAnimButtons/app/src/main/res/anim/anim_scale.xml"
+    },
+    {
+        "merged": "/media/datos/ramon/IES Al-Andalus/ASIGNATURAS/PMDM/semipresencial/DAM_PMDM07/Ejemplos_codigo_fuente/16_AndroidAnimButtons/app/build/intermediates/res/merged/debug/anim/anim_rotate.xml",
+        "source": "/media/datos/ramon/IES Al-Andalus/ASIGNATURAS/PMDM/semipresencial/DAM_PMDM07/Ejemplos_codigo_fuente/16_AndroidAnimButtons/app/src/main/res/anim/anim_rotate.xml"
+    }
+]

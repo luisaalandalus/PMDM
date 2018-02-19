@@ -1,0 +1,4 @@
+#Sun Jan 28 18:44:42 CET 2018
+base.0=/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/27_grabar_imagen_video/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

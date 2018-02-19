@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/ramon/Documentos/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_4_Multimedia/Ejemplos_codigo_fuente/11_Drawable_Bombilla/app/build/intermediates/res/merged/debug/drawable/light_bulb.xml",
+        "source": "/home/ramon/Documentos/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_4_Multimedia/Ejemplos_codigo_fuente/11_Drawable_Bombilla/app/src/main/res/drawable/light_bulb.xml"
+    },
+    {
+        "merged": "/home/ramon/Documentos/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_4_Multimedia/Ejemplos_codigo_fuente/11_Drawable_Bombilla/app/build/intermediates/res/merged/debug/drawable/button.xml",
+        "source": "/home/ramon/Documentos/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_4_Multimedia/Ejemplos_codigo_fuente/11_Drawable_Bombilla/app/src/main/res/drawable/button.xml"
+    },
+    {
+        "merged": "/home/ramon/Documentos/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_4_Multimedia/Ejemplos_codigo_fuente/11_Drawable_Bombilla/app/build/intermediates/res/merged/debug/drawable/button_default.xml",
+        "source": "/home/ramon/Documentos/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_4_Multimedia/Ejemplos_codigo_fuente/11_Drawable_Bombilla/app/src/main/res/drawable/button_default.xml"
+    },
+    {
+        "merged": "/home/ramon/Documentos/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_4_Multimedia/Ejemplos_codigo_fuente/11_Drawable_Bombilla/app/build/intermediates/res/merged/debug/drawable/button_checked.xml",
+        "source": "/home/ramon/Documentos/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_4_Multimedia/Ejemplos_codigo_fuente/11_Drawable_Bombilla/app/src/main/res/drawable/button_checked.xml"
+    },
+    {
+        "merged": "/home/ramon/Documentos/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_4_Multimedia/Ejemplos_codigo_fuente/11_Drawable_Bombilla/app/build/intermediates/res/merged/debug/drawable/button_pressed.xml",
+        "source": "/home/ramon/Documentos/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_4_Multimedia/Ejemplos_codigo_fuente/11_Drawable_Bombilla/app/src/main/res/drawable/button_pressed.xml"
+    }
+]

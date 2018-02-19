@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/20_reproducir_sonido_bucle/app/build/intermediates/res/merged/debug/drawable-mdpi_icon.png.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/20_reproducir_sonido_bucle/app/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/20_reproducir_sonido_bucle/app/build/intermediates/res/merged/debug/layout_main.xml.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/20_reproducir_sonido_bucle/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/20_reproducir_sonido_bucle/app/build/intermediates/res/merged/debug/raw_train.mp3.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/20_reproducir_sonido_bucle/app/src/main/res/raw/train.mp3"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/20_reproducir_sonido_bucle/app/build/intermediates/res/merged/debug/drawable-hdpi_icon.png.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/20_reproducir_sonido_bucle/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/20_reproducir_sonido_bucle/app/build/intermediates/res/merged/debug/drawable-ldpi_icon.png.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/20_reproducir_sonido_bucle/app/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/20_reproducir_sonido_bucle/app/build/intermediates/res/merged/debug/raw_water_droplet.mp3.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/Multimedia/20_reproducir_sonido_bucle/app/src/main/res/raw/water_droplet.mp3"
+    }
+]

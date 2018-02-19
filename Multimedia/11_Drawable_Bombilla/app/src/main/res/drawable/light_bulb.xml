@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- define un objeto TransitionDrawable mediante XML
+     para definir el efecto de pasar de una imagen a otra
+     en este caso bombilla apagada o encendida -->
+<transition xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- bombilla apagada -->
+    <item android:drawable="@drawable/light_bulb_off"/>
+
+    <!-- bombilla encendida -->
+    <item android:drawable="@drawable/light_bulb_on"/>
+</transition>

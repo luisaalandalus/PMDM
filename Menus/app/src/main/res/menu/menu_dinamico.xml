@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">>
+    <item android:id="@+id/fashion"
+        android:title="Fashion Coupons"
+        app:showAsAction="never"/>
+    <item android:id="@+id/Appliance"
+        android:title="Appliance Coupons"
+        app:showAsAction="never"/>
+    <item android:id="@+id/travel"
+        android:title="Travel Coupons"
+        app:showAsAction="never"/>
+    <item android:id="@+id/food"
+        android:title="Food Coupons"
+        app:showAsAction="never"/>
+
+</menu>
