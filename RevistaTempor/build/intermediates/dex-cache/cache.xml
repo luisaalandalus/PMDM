@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Proyectos Android\RevistaTempor\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="D:\Proyectos Android\RevistaTempor\app\build\intermediates\pre-dexed\debug\classes-46ac81bc210622691af7bb49946af2f1331c8ce8.jar" />
+    </item>
+    <item
+        jar="D:\Users\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="D:\Proyectos Android\RevistaTempor\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-82be9cf1e80775c403f81afa0dbcd525a36b97d4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hermosa Programación\Desktop\RevistaTempor\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="C:\Users\Hermosa Programación\Desktop\RevistaTempor\app\build\intermediates\pre-dexed\debug\classes-38e1d03df82a7a2dd6fa5057c7fa63bcc6a1c668.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hermosa Programación\Desktop\RevistaTempor\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\Hermosa Programación\Desktop\RevistaTempor\app\build\intermediates\pre-dexed\debug\classes-0aed584d39bc596f359a5dcefe27060da61531b9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hermosa Programación\Desktop\RevistaTempor\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Hermosa Programación\Desktop\RevistaTempor\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-fff509ad91263a9142a51d3727f9f8fea6c393ed.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android\RevistaTempor\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="D:\Proyectos Android\RevistaTempor\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-1a5df5c46f317583e55dcb86328958bff415cda1.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android\RevistaTempor\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="D:\Proyectos Android\RevistaTempor\app\build\intermediates\pre-dexed\debug\classes-363c5cf374a2df0aa6d313dd19836515c670b574.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android\RevistaTempor\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="D:\Proyectos Android\RevistaTempor\app\build\intermediates\pre-dexed\debug\classes-29f28b460539593972542de330b63222add23795.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hermosa Programación\Desktop\RevistaTempor\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Hermosa Programación\Desktop\RevistaTempor\app\build\intermediates\pre-dexed\debug\classes-1ab41fa735560348a19ade6b768709e03bcc9034.jar" />
+    </item>
+
+</items>

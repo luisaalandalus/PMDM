@@ -1,0 +1,4 @@
+#Thu Dec 21 13:54:31 CET 2017
+base.0=/Users/luisaparragarcia/AndroidStudioProjects/PMDM/InterfazUsuario/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/luisaparragarcia/AndroidStudioProjects/PMDM/RevistaTempor/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w480dp-v13/values-w480dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/luisaparragarcia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.0.0.aar/349b20b6de0b3983970e39b255ca5a50/res/values-w480dp-v13/values.xml",
+                    "from": {
+                        "startLines": "4,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "278,564",
+                        "endColumns": "61,71",
+                        "endOffsets": "335,631"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,117",
+                        "endColumns": "61,71",
+                        "endOffsets": "112,184"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/luisaparragarcia/Downloads/RevistaTempor/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w480dp-v13/values-w480dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/luisaparragarcia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.0.0.aar/349b20b6de0b3983970e39b255ca5a50/res/values-w480dp-v13/values.xml",
+                    "from": {
+                        "startLines": "4,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "278,564",
+                        "endColumns": "61,71",
+                        "endOffsets": "335,631"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,117",
+                        "endColumns": "61,71",
+                        "endOffsets": "112,184"
+                    }
+                }
+            ]
+        }
+    ]
+}

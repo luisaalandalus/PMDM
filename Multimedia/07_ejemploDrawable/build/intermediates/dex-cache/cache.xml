@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/ramon/Documentos/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_4_Multimedia/Ejemplos_codigo_fuente/07_ejemploDrawable/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="64b892e2d7f2178925e115db47ddf9d1f948dc18">
+        <dex dex="/home/ramon/Documentos/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_4_Multimedia/Ejemplos_codigo_fuente/07_ejemploDrawable/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e25b86973507cfddf27d4b80d1da722ede358cad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ramon/Documentos/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_4_Multimedia/Ejemplos_codigo_fuente/07_ejemploDrawable/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/ramon/Documentos/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_4_Multimedia/Ejemplos_codigo_fuente/07_ejemploDrawable/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.1_bc79ea38ad0ff75fc30b6ec7a0d901ea350eb79c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ramon/Documentos/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_4_Multimedia/Ejemplos_codigo_fuente/07_ejemploDrawable/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/ramon/Documentos/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_4_Multimedia/Ejemplos_codigo_fuente/07_ejemploDrawable/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_6e5f513a20d90e214c8b8ac7e0a095c4eb21d8e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ramon/Documentos/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_4_Multimedia/Ejemplos_codigo_fuente/07_ejemploDrawable/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/home/ramon/Documentos/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_4_Multimedia/Ejemplos_codigo_fuente/07_ejemploDrawable/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.1.1_cc61e4462f7e091201e8cae0808dc200515fab48/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ramon/Documentos/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_4_Multimedia/Ejemplos_codigo_fuente/07_ejemploDrawable/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/home/ramon/Documentos/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_4_Multimedia/Ejemplos_codigo_fuente/07_ejemploDrawable/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.1.1_edbb1ba3e56074dc2c43b01d3baa7984762279d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ramon/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/ramon/Documentos/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_4_Multimedia/Ejemplos_codigo_fuente/07_ejemploDrawable/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_0f8871ae6b5a3abc87440dcea876ec4782341d24/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ramon/Documentos/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_4_Multimedia/Ejemplos_codigo_fuente/07_ejemploDrawable/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b552548cb0c43ac7126f0ae9cee2f3ec7387855d">
+        <dex dex="/home/ramon/Documentos/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_4_Multimedia/Ejemplos_codigo_fuente/07_ejemploDrawable/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c60aa85dec61464aec867e4deac40ad1dd66de33/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ramon/Documentos/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_4_Multimedia/Ejemplos_codigo_fuente/07_ejemploDrawable/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/ramon/Documentos/ASIGNATURAS/PMDM/semipresencial/Temas_nuevos/Tema_4_Multimedia/Ejemplos_codigo_fuente/07_ejemploDrawable/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.1_2fe4d0a9de66a5f3313198b1afecf1fa6f206ec7/classes.dex" />
+    </item>
+
+</items>
